@@ -1,0 +1,589 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass europasscv
+\options nologo
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing double
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plainyr
+\use_bibtopic true
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 1
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Name
+Hien Duy Nguyen
+\end_layout
+
+\begin_layout Address
+Department of Mathematics and Statistics, La Trobe University, Melbourne
+ 3086, VIC Australia
+\end_layout
+
+\begin_layout Email
+h.nguyen5@latrobe.edu.au
+\end_layout
+
+\begin_layout Telephone
++61 0 434 253 952
+\end_layout
+
+\begin_layout Homepage
+hiendn.github.io
+\end_layout
+
+\begin_layout Section
+Academic and Research Positions
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016– 
+\series bold
+DECRA Ressearch Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council (ARC) grant number: DE170101134.
+\end_layout
+
+\begin_layout Standard
+La Trobe University, Melbourne, Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Feasible algorithms for big inference.
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016– 
+\series bold
+Lecturer
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Standard
+La Trobe University, Melbourne, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Visiting Research Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Mistis Team
+\end_layout
+
+\begin_layout Standard
+Inria Grenoble Rhone-Alpes, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2017, 2018}$
+\end_inset
+
+ 
+\series bold
+Visiting Research and Teaching Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Lab of Mathematics: Nicolas Oresme
+\end_layout
+
+\begin_layout Standard
+University of Caen, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015–2016 
+\series bold
+Postdoctoral Research Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics, and Centre for Advanced Imaging
+\end_layout
+
+\begin_layout Standard
+University of Queensland, Brisbane, Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisors: Dr Andrew Janke and Prof Geoffrey McLachlan
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Mixture modelling for multimodal medical imaging data
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015 
+\series bold
+Visiting Research Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+SIMEXP Laboratory
+\end_layout
+
+\begin_layout Standard
+Centre de Reserche de l'Institut Universitaire de Geriatrie de Montreal,
+ Canada
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 
+\series bold
+Vacation Research Scholar
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Diamantina Institute, University of Queensland, Brisbane, Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisor: Dr Michelle Hills
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Bioinformatics for clinical proteomics
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2009 
+\series bold
+Research Assistant
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Commonwealth Scientific and Industrial Research Organisation, Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisors: Dr Andrew George and Dr Emma Huang
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Genome-wide association study of wheat crop traits
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2008 
+\series bold
+Vacation Research Scholar
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Commonwealth Scientific and Industrial Research Organisation, Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisors: Dr Andrew George and Dr Emma Huang
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Association analysis in sugarcane—on the hunt for sugar genes
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Tertiary Education
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011–2015 
+\series bold
+PhD in Statistics
+\series default
+ (Dean's Award for Outstanding RHD Theses)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland, Brisbane, Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisors: Prof Geoffrey McLachlan, Dr Ian Wood, and Dr Andrew Janke
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Title: Finite mixture models for linear regression data
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{Key words}$
+\end_inset
+
+: expectation-maximization algorithm, false discovery rate control, minorization
+-maximization algorithm, mixture model, neuroimaging, numerical optimization,
+ random-effect models, regression
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2006–2011 
+\series bold
+Bachelor of Science with First Class Honours in Statistics
+\series default
+ (Mathematics and Statistics majors; University Medal)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland, Brisbane, Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisor: Dr Ian Wood and Dr Andrew George
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{Thesis title}$
+\end_inset
+
+: Variable selection in linear models using metaheuristic algorithms with
+ applications in genome-wide association studies
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 
+\series bold
+Study Abroad
+\series default
+ (Scholarship; Spring Semester)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of California, Berkeley, USA
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2006–2010 
+\series bold
+Bachelor of Economics
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland, Brisbane, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Teaching Experience
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Optimization theory for statistics and machine learning
+\series default
+ (University of Caen)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+A series of five lectures and three computer practical sessions were taught
+ on the topic of optimization theory and its application to statistics and
+ machine learning problems.
+ The course concentrated on the fundamental theory of optimization with
+ an emphasis on the framework of majorization-minimization algorithms.
+ Applications of focus included regularized smooth and non-smooth regression,
+ estimation ofgeneralized support vector machines, and maximum likelihood
+ estimation of latent variable models such as mixed effects and finite mixture
+ models.
+ Computer classes concentrated on the construction of algorithms using the
+ R programming language.
+ All of the course content can be found at https://github.com/hiendn/CaenOptimiza
+tion2018.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Capacity: Visiting Teaching Fellow, Lab of Mathematics: Nicolas Oresme
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Models for bioinformatics
+\series default
+ (STA5MB, La Trobe University)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+A series of two lectures was taught on the topics of 
+\emph on
+k
+\emph default
+-means clustering, model-based clustering, the expectation maximization
+ algorithn, empirical-Bayesian inference and false discovery rate control,
+ with applications in bioinformatics.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Capacity: Lecturer, Department of Mathematics and Statistics
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 
+\series bold
+Experimental design
+\series default
+ (STAT3003, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+A series of four lectures was taught on the topic of sampling theory and
+ finite population statistics.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Capacity: Casual Lecturer, School of Mathematics and Physics
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2009–2014 
+\series bold
+Tutor
+\series default
+ (School of Economics, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Provided instruction in various mathematical and quantitative courses that
+ were taught by the School of Economics, University of Queensland including
+ undergraduate and postgraduate courses.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Undergraduate: Applied econometrics for macroeconomics and finance (ECON3350;
+ 2014), Mathematical economics (ECON2050; 2012–2014), Tools of economic
+ analysis (ECON1050; 2011, 2014), Introductory econometrics (2300; 2012),
+ Quantitative economics and business analysis B (ECON1320; 2009–2012), Quantitat
+ive economics and business analysis A (ECON1310; 2009)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Postgraduate: Mathematical techniques for economics (ECON7150; 2013, 2014),
+ Statistics for business and economics (ECON7300; 2010–2013), Elements of
+ econometrics (ECON7310; 2012)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2007–2014 
+\series bold
+Tutor
+\series default
+ (School of Mathematics and Physics, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Provided instruction across the catalog of courses taught by the School
+ of Mathematics and Physics, including various courses in mathematics, probabili
+ty, and statistics, as well as service-type quantitative courses for students
+ outside of the school.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Mathematics: Multivariate calculus and ODE (MATH1052; 2008, 2012), Calculus
+ and linear algebra II (MATH2000; 2010), Calculus and linear algebra I (MATH1051
+; 2009), Basic mathematics (MATH1040; 2007)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Statistics: Advanced analysis of scientific data (STAT1301; 2014), Experimental
+ design (STAT3003; 2012, 2013), Analysis of scientific data (STAT1201; 2008–2011
+), Analysis of engineering and scientific data (STAT2201; 2009), Probability
+ models for engineering and science (STAT2203; 2008)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Service: Biomedical science (BIOM3200; 2012–2014), Research methodology
+ (HRSS7806; 2011–2013), Pharmacy – data analysis and professional practise
+ (PHRM1020; 2008, 2009, 2011), Advanced research processes in health sciences
+ (HRSS7808; 2010)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Peer-Reviewed Publications
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "PeerReviewedPublications"
+options "plainyr"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Other Publications
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "OtherPublications"
+options "plainyr"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
