@@ -6,7 +6,7 @@
 \origin unavailable
 \textclass europasscv
 \begin_preamble
-\usepackage{hyperref}
+\usepackage{url}
 \end_preamble
 \options nologo
 \use_default_options true
@@ -35,6 +35,15 @@
 \paperfontsize default
 \spacing double
 \use_hyperref false
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
 \papersize default
 \use_geometry true
 \use_package amsmath 1
@@ -321,7 +330,10 @@ Supervisors: Prof Geoffrey McLachlan, Dr Ian Wood, and Dr Andrew Janke
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Title: Finite mixture models for linear regression data
+\begin_inset Formula $\text{Thesis title}$
+\end_inset
+
+: Finite mixture models for linear regression data
 \end_layout
 
 \begin_layout Labeling
@@ -329,7 +341,7 @@ Title: Finite mixture models for linear regression data
 \begin_inset Formula $\text{Key words}$
 \end_inset
 
-: expectation-maximization algorithm, false discovery rate control, minorization
+: Expectation-maximization algorithm, false discovery rate control, minorization
 -maximization algorithm, mixture model, neuroimaging, numerical optimization,
  random-effect models, regression
 \end_layout
@@ -393,7 +405,7 @@ University of Queensland, Brisbane, Australia
 
 \end_deeper
 \begin_layout Section
-Teaching Experience
+Teaching and Instruction
 \end_layout
 
 \begin_layout Labeling
@@ -565,7 +577,7 @@ Peer-Reviewed Publications
 LatexCommand bibtex
 btprint "btPrintAll"
 bibfiles "PeerReviewedPublications"
-options "plainyr"
+options "plainyrrev"
 
 \end_inset
 
@@ -581,10 +593,1116 @@ Other Publications
 LatexCommand bibtex
 btprint "btPrintAll"
 bibfiles "OtherPublications"
-options "plainyr"
+options "plainyrrev"
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Section
+Submitted Manuscripts, Working Papers, and Preprints
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "WorkingPapers"
+options "plainyrrev"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Grants and Research Funding
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017–2021 
+\series bold
+Discovery Project
+\series default
+ (242,194 AUD; DP180101192)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Coinvestigators: Prof Geoffrey McLachlan (University of Queensland) and
+ Dr Sharon Lee (University of Queensland)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Classification methods for providing personalised and class decisions
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017–2019 
+\series bold
+Discovery Early Career Research Award 
+\series default
+(360,000 AUD; DE170101134)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Feasible algorithms for big inference
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+AFRAN Call for Initiatives 
+\series default
+(3,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian-French Association for Research and Innovation
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Research School on Statistics and Data Science
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+FASIC RESEARCHERS Program 
+\series default
+(2,545 EURO)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Ministry of Europe and Foreign Affairs, and Ministry of Higher Education,
+ Research and Innovation (France)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Coawardee: Dr Florence Forbes
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Latent analysis, adversarial networks, and dimensionality reduction
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017–2019 
+\series bold
+Start Up Grant 
+\series default
+(15,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+La Trobe University
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Scholarships and Prizes
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015 
+\series bold
+AK Head Travelling Scholarship 
+\series default
+(13,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Academy of Science
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011–2014 
+\series bold
+ASPREE-ENVISION Scholarship 
+\series default
+(21,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian National University
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011–2014 
+\series bold
+Advantage RHD Scholarship 
+\series default
+(17,500 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011–2014 
+\series bold
+Australian Postgraduate Award 
+\series default
+(87,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 
+\series bold
+Honours Research Scholarship 
+\series default
+(5,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Commonwealth Scientific and Industrial Research Organization
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 
+\series bold
+Summer Research Scholarship 
+\series default
+(3,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2009 
+\series bold
+Economics Jubilee Scholarship 
+\series default
+(8,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2009 
+\series bold
+National Priority Scholarship 
+\series default
+(2,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2008 
+\series bold
+Vacation Research Scholarship 
+\series default
+(8,500 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Commonwealth Scientific and Industrial Research Organization
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2008 
+\series bold
+Elizabeth Norsworthy Power Industry Bursary 
+\series default
+(7,500 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Stanwell Corporation Limited
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2008 
+\series bold
+Prize for Third Year Statistics 
+\series default
+(500 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Education, Employment and Workplace Relations
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2007, 2008}$
+\end_inset
+
+ 
+\series bold
+Undergraduate Scholarship 
+\series default
+(8,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Bureau of Statistics
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2006, 2007}$
+\end_inset
+
+ 
+\series bold
+Commonwealth Educational Cost Scholarship
+\series default
+ (4,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2006 
+\series bold
+Kenneth Swanwick Memorial Prize 
+\series default
+(100 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2006 
+\series bold
+John Black Prize 
+\series default
+(100 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Teaching Awards
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2013, 2014}$
+\end_inset
+
+ 
+\series bold
+Distinguished Teaching Award
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Economics, University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2012 
+\series bold
+Excellence in Tutoring Award
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics, University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Conference Presentations
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Poster Presentations
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2014 
+\series bold
+Asymptotic inference for hidden process regresion models
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: IEEE Statistical Signal Processing Workshop
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Gold Coast, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Oral Presentations
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Fast Gaussian mixture model estimation using online EM algorithms
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/p4ilsozbb3zkec4/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 11th International Conference of the ERCIM WG on Computational
+ and Methodological Statistics (CMStatistics)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Pisa, Italy
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+On approximations via convolution-defined mixture models
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/8n2dgej19rdaex9/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 2nd Italian-French Statistical Seminar
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Grenoble, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+Stream-suitable optimization algorithms for some soft-margin support vector
+ machines
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/oxctz6iza40c2de/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 10th International Conference of the ERCIM WG on Computational
+ and Methodological Statistics (CMStatistics)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: London, UK
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+Iteratively-reweighted least-squares fitting of support vector machines:
+ a majorization-minimization algorithm approach 
+\series default
+(Best Paper Award)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/929afvtu3t7wvx9/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 2nd Future Technologies Conference
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Vancouver, Canada
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+A two-sample Kolmogorov-Smirnov-like test for Big Data
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/16mh5yyv65q8mkk/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 15th Australasian Data Mining Conference
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Melbourne, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+Novel algorithm for clustering of data on the unit sphere via mixture models
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/i1jckrh1csxr484/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: Joint Statistics Meeting
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Baltimore, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 
+\series bold
+Fast model-based clustering of functional data via Gaussian mixture models
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/gkbt1864i5vuy21/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 9th International Conference of the ERCIM WG on Computational
+ and Methodological Statistics (CMStatistics)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Seville, Spain
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015 
+\series bold
+Spatial clustering of time-series via mixtures of autoregressive models
+ and Markov random fields
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/d03n4hy4pepu056/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 8th International Conference of the ERCIM WG on Computational
+ and Methodological Statistics (CMStatistics)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: London, UK
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013 
+\series bold
+Spatial false discovery rate control for magnetic resonance imaging studies
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: International Conference on Digital Image Computing: Techniques
+ and Applications (DICTA)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Hobart, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2012 
+\series bold
+Variable selection in statistical models using population-based incremental
+ learning with applications to genome-wide association studies
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: IEEE Congress on Evolutionary Computation
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Brisbane, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Invited Preseantations and Workshops
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Optimization theory for statistics and machine learning 
+\series default
+(4-week course)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://github.com/hiendn/CaenOptimization2018
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Caen, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Minibatch and incremental learning of exponential family mixtures
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/x1ykkb06sbrby5k/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: RMIT, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Minibatch and incremental learning of exponential family mixtures, and the
+ soft k-means clustering problem
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/prnezou250f69v8/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Inria Grenoble Rhone-Alpes, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+A maximum likelihood oddity
+\series default
+ (Statstics Seminar)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/ys32zj87m2l8ew7/Slides.pptx?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+MM algorithms for statistical inference and machine learning problems
+\series default
+ (S4D)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/mq4586246erxmtj/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Caen, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Theory of statistical inference: a lazy approach to obtaining asymptotic
+ results in parametric models 
+\series default
+(S4D)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/1siclt7xawsa76l/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Caen, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+False discovery rate control under rounding of p-values
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.youtube.com/watch?v=ud_tOPmWxIY&frags=pl%2Cwn
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Centre de Reserche de l'Institut Universitaire de Geriatrie de
+ Montreal, Canada
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+The Stone-Weierstrass theorem and neural networks 
+\series default
+(Kyushu-Latrobe Joint Seminar)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/8epso1u7zpbuq1l/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+False discovery rate control under rounding of p-values
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/0bsf9nx3m34yyvc/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Inria Grenoble Rhone-Alpes, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+Majorization-minimization (MM) algorithms for statistical inference and
+ machine learning problems 
+\series default
+(Research Summer School in Statistics and Big Data Science)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/g7zomtmz7wqydml/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Caen, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+Chunked-and-averaged estimators for statistically embarassingly parallel
+ computation and online learning 
+\series default
+(Workshop on Big Data Analysis)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 
+\series bold
+Whole-volume clustering of calcium imaged zebrafish brains via model-based
+ functional data analysis
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/0xhhbba3la70r18/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 
+\series bold
+A novel approach to clustering time series data in large spatial arrays
+ 
+\series default
+(Centre for Advanced Imaging Seminar Series)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/urajgekwkjdz8h1/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Queensland, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 
+\series bold
+Model-based methods for clustering of spatial time series data
+\series default
+ (3-day Invited Workshop for the School of Computer Science and Software
+ Engineering)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/sh/84nr46csxe9cmxw/AAA2u-zdKrgWUorenmQ7cEJEa?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Western Australia, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015 
+\series bold
+Finite mixture models and false discovery rate control in MRI studies 
+\series default
+(Mouse Imaging Research Centre)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/64vjvk6wahnek4x/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Toronto Centre for Phenogenomics, Canada
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015 
+\series bold
+Finite mixture models and false discovery rate control in MRI studies 
+\series default
+(Feindel Brain Imaging Lecutre Series at the McConnell Brain Imaging Centre)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/5j7psmxpdfd4axp/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: McGill Uniersity, Canada
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013 
+\series bold
+Spatial false discovery rate control for magnetic resonance imaging stidies
+ 
+\series default
+(Neuroimaging and Brain Lab)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Australian National University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 
+\series bold
+The beginner's guide to genetic algorithms 
+\series default
+(General Interest/Lay Audience Seminar at the School of Mathematics and
+ Physics)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Queensland, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Professional Service
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+PhD Confirmations Committee Chair
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2017, 2018}$
+\end_inset
+
+ 
+\series bold
+Statistics Seminar Administrator
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 
+\series bold
+Masters Theses Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 
+\series bold
+PhD Confirmation Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: University of Queensland, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015 
+\series bold
+Promotion Application Assessor
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 
 \end_layout
 
