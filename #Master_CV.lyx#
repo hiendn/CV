@@ -582,35 +582,7 @@ Journal Articles
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintAll"
-bibfiles "pr_articles"
-options "plainyrrev"
-
-\end_inset
-
-
-\series bold
-Conference Papers
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-btprint "btPrintAll"
-bibfiles "pr_inproceedings"
-options "plainyrrev"
-
-\end_inset
-
-
-\series bold
-Book Chapters
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-btprint "btPrintAll"
-bibfiles "pr_bookchapters"
+bibfiles "PeerReviewedPublications"
 options "plainyrrev"
 
 \end_inset
