@@ -1298,7 +1298,7 @@ Location: Brisbane, Australia
 
 \end_deeper
 \begin_layout Section
-Invited Preseantations and Workshops
+Invited Presentations and Workshops
 \end_layout
 
 \begin_layout Labeling
@@ -1355,6 +1355,27 @@ https://www.dropbox.com/s/prnezou250f69v8/Slides.pdf?dl=0
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: Inria Grenoble Rhone-Alpes, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+The fully-visible Boltzmann machine, maximum pseudolikelihood estimation,
+ and the Senate of the 45th Australian Parliament 
+\series default
+(Monash Econometrics and Business Statistics Seminar)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+https://www.dropbox.com/s/znir7u6dzbf2tyv/Slides.pdf?dl=0
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Monash University, Australia
 \end_layout
 
 \end_deeper
@@ -1601,7 +1622,7 @@ Location: Toronto Centre for Phenogenomics, Canada
 \series bold
 Finite mixture models and false discovery rate control in MRI studies 
 \series default
-(Feindel Brain Imaging Lecutre Series at the McConnell Brain Imaging Centre)
+(Feindel Brain Imaging Lecture Series at the McConnell Brain Imaging Centre)
 \end_layout
 
 \begin_deeper
@@ -1611,7 +1632,7 @@ https://www.dropbox.com/s/5j7psmxpdfd4axp/Slides.pdf?dl=0
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Location: McGill Uniersity, Canada
+Location: McGill University, Canada
 \end_layout
 
 \end_deeper
@@ -1619,7 +1640,7 @@ Location: McGill Uniersity, Canada
 \labelwidthstring 00.00.0000
 2013 
 \series bold
-Spatial false discovery rate control for magnetic resonance imaging stidies
+Spatial false discovery rate control for magnetic resonance imaging studies
  
 \series default
 (Neuroimaging and Brain Lab)
@@ -1924,7 +1945,7 @@ Program Committee Member and Tract Chair
 
 \begin_deeper
 \begin_layout Standard
-16th Australian Data Mining Conference (AusDM), Bathurst Australia
+16th Australasian Data Mining Conference (AusDM), Bathurst Australia
 \end_layout
 
 \end_deeper
@@ -2020,6 +2041,10 @@ Journal of Statistical Computation and Simulation (Taylor Francis)
 \end_layout
 
 \begin_layout Itemize
+Journal of Statistical Planning and Inference (Elsevier)
+\end_layout
+
+\begin_layout Itemize
 Knowledge-Based Systems (Elsevier)
 \end_layout
 
@@ -2053,6 +2078,11 @@ WIREs: Data Mining and Knowledge Discovery (Wiley)
 
 \begin_layout Section
 Professional Memberships
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019– Statistical Society of Australia (Victoria Branch)
 \end_layout
 
 \begin_layout Labeling
