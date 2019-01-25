@@ -682,7 +682,7 @@ Project: Classification methods for providing personalised and class decisions
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2017–2019 
+2017–2020 
 \series bold
 Discovery Early Career Research Award 
 \series default
@@ -1839,6 +1839,22 @@ Grant Assessor
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2018, 2019}$
+\end_inset
+
+ 
+\series bold
+Linkage Projects
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2018 
 \series bold
 Internal Research Funds
@@ -1847,19 +1863,6 @@ Internal Research Funds
 \begin_deeper
 \begin_layout Standard
 Free University of Bozen-Bolzano, Italy
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2018 
-\series bold
-Linkage Projects
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Australian Research Council, Australia
 \end_layout
 
 \end_deeper
@@ -2001,6 +2004,10 @@ BMC Bioinformatics (BioMed Central)
 
 \begin_layout Itemize
 Computational Statistics (Springer)
+\end_layout
+
+\begin_layout Itemize
+Computational Statistics and Data Analysis (Elsevier)
 \end_layout
 
 \begin_layout Itemize
