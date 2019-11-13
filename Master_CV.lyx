@@ -173,7 +173,10 @@ La Trobe University, Melbourne, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018 
+\begin_inset Formula $\text{2018, 2019}$
+\end_inset
+
+ 
 \series bold
 Visiting Research Fellow
 \end_layout
@@ -185,6 +188,27 @@ Mistis Team
 
 \begin_layout Standard
 Inria Grenoble Rhone-Alpes, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2015, 2019}$
+\end_inset
+
+ 
+\series bold
+Visiting Research Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+SIMEXP Laboratory
+\end_layout
+
+\begin_layout Standard
+Centre de Reserche de l'Institut Universitaire de Geriatrie de Montreal,
+ Canada
 \end_layout
 
 \end_deeper
@@ -232,24 +256,6 @@ Supervisors: Dr Andrew Janke and Prof Geoffrey McLachlan
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Project: Mixture modelling for multimodal medical imaging data
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2015 
-\series bold
-Visiting Research Fellow
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-SIMEXP Laboratory
-\end_layout
-
-\begin_layout Standard
-Centre de Reserche de l'Institut Universitaire de Geriatrie de Montreal,
- Canada
 \end_layout
 
 \end_deeper
@@ -442,13 +448,11 @@ A series of five lectures and three computer practical sessions were taught
  The course concentrated on the fundamental theory of optimization with
  an emphasis on the framework of majorization-minimization algorithms.
  Applications of focus included regularized smooth and non-smooth regression,
- estimation ofgeneralized support vector machines, and maximum likelihood
+ estimation of generalized support vector machines, and maximum likelihood
  estimation of latent variable models such as mixed effects and finite mixture
  models.
  Computer classes concentrated on the construction of algorithms using the
  R programming language.
- All of the course content can be found at https://github.com/hiendn/CaenOptimiza
-tion2018.
 \end_layout
 
 \begin_layout Labeling
@@ -1105,16 +1109,52 @@ Oral Presentations
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2019 
+\series bold
+Approximate Bayesian computation with discrepancy measurements
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: Research School on Statistics and Data Science (RSSDS2019)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Melbourne, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mixtures of local logistic regressions for nonlinear classification when
+ data are heterogeneous
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 3rd International Conference on Econometrics and Statistics
+ (EcoSta 2019)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Taichung, Taiwan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2018 
 \series bold
 Fast Gaussian mixture model estimation using online EM algorithms
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/p4ilsozbb3zkec4/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Conference: 11th International Conference of the ERCIM WG on Computational
@@ -1135,10 +1175,6 @@ On approximations via convolution-defined mixture models
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/8n2dgej19rdaex9/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Conference: 2nd Italian-French Statistical Seminar
@@ -1159,10 +1195,6 @@ Stream-suitable optimization algorithms for some soft-margin support vector
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/oxctz6iza40c2de/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Conference: 10th International Conference of the ERCIM WG on Computational
@@ -1186,10 +1218,6 @@ Iteratively-reweighted least-squares fitting of support vector machines:
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/929afvtu3t7wvx9/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Conference: 2nd Future Technologies Conference
@@ -1209,10 +1237,6 @@ A two-sample Kolmogorov-Smirnov-like test for Big Data
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/16mh5yyv65q8mkk/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Conference: 15th Australasian Data Mining Conference
@@ -1232,10 +1256,6 @@ Novel algorithm for clustering of data on the unit sphere via mixture models
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/i1jckrh1csxr484/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Conference: Joint Statistics Meeting
@@ -1255,10 +1275,6 @@ Fast model-based clustering of functional data via Gaussian mixture models
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/gkbt1864i5vuy21/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Conference: 9th International Conference of the ERCIM WG on Computational
@@ -1342,6 +1358,22 @@ Invited Presentations and Workshops
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2019 
+\series bold
+Approximate Bayesian computation using the energy statistic 
+\series default
+(CDAC Seminar)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2018 
 \series bold
 Optimization theory for statistics and machine learning 
@@ -1350,10 +1382,6 @@ Optimization theory for statistics and machine learning
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://github.com/hiendn/CaenOptimization2018
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: University of Caen, France
@@ -1368,10 +1396,6 @@ Minibatch and incremental learning of exponential family mixtures
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/x1ykkb06sbrby5k/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: RMIT, Australia
@@ -1387,10 +1411,6 @@ Minibatch and incremental learning of exponential family mixtures, and the
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/prnezou250f69v8/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: Inria Grenoble Rhone-Alpes, France
@@ -1408,10 +1428,6 @@ The fully-visible Boltzmann machine, maximum pseudolikelihood estimation,
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/znir7u6dzbf2tyv/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: Monash University, Australia
@@ -1428,10 +1444,6 @@ A maximum likelihood oddity
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/ys32zj87m2l8ew7/Slides.pptx?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: La Trobe University, Australia
@@ -1448,10 +1460,6 @@ MM algorithms for statistical inference and machine learning problems
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/mq4586246erxmtj/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: University of Caen, France
@@ -1469,10 +1477,6 @@ Theory of statistical inference: a lazy approach to obtaining asymptotic
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/1siclt7xawsa76l/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: University of Caen, France
@@ -1487,10 +1491,6 @@ False discovery rate control under rounding of p-values
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.youtube.com/watch?v=ud_tOPmWxIY&frags=pl%2Cwn
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: Centre de Reserche de l'Institut Universitaire de Geriatrie de
@@ -1508,10 +1508,6 @@ The Stone-Weierstrass theorem and neural networks
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/8epso1u7zpbuq1l/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: La Trobe University, Australia
@@ -1526,10 +1522,6 @@ False discovery rate control under rounding of p-values
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/0bsf9nx3m34yyvc/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: Inria Grenoble Rhone-Alpes, France
@@ -1547,10 +1539,6 @@ Majorization-minimization (MM) algorithms for statistical inference and
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/g7zomtmz7wqydml/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: University of Caen, France
@@ -1583,10 +1571,6 @@ Whole-volume clustering of calcium imaged zebrafish brains via model-based
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/0xhhbba3la70r18/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: La Trobe University, Australia
@@ -1604,10 +1588,6 @@ A novel approach to clustering time series data in large spatial arrays
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/urajgekwkjdz8h1/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: University of Queensland, Australia
@@ -1625,10 +1605,6 @@ Model-based methods for clustering of spatial time series data
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/sh/84nr46csxe9cmxw/AAA2u-zdKrgWUorenmQ7cEJEa?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: University of Western Australia, Australia
@@ -1645,10 +1621,6 @@ Finite mixture models and false discovery rate control in MRI studies
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/64vjvk6wahnek4x/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: Toronto Centre for Phenogenomics, Canada
@@ -1665,10 +1637,6 @@ Finite mixture models and false discovery rate control in MRI studies
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/5j7psmxpdfd4axp/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: McGill University, Canada
@@ -1715,7 +1683,28 @@ Professional Service
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018 
+2020 
+\series bold
+Elected Member of the Academic Board
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Level C/D Representative
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2018, 2019}$
+\end_inset
+
+ 
 \series bold
 PhD Confirmations Committee Chair
 \end_layout
@@ -1754,7 +1743,7 @@ Institution: La Trobe University, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2017 
+2017–2019 
 \series bold
 Masters Theses Committee Member
 \end_layout
@@ -1991,6 +1980,32 @@ Conference Commitments
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2019 
+\series bold
+Workshop Co-chair
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Research School in Statistics and Data Science (RSSDS), Melbourne Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Program Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+17th Australasian Data Mining Conference (AusDM), Adelaide Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2018 
 \series bold
 Program Committee Member and Tract Chair 
@@ -2141,7 +2156,7 @@ Professional Memberships
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2019– Statistical Society of Australia (Victoria Branch)
+2019– Statistical Society of Australia (Victoria Branch, Guest Council Member)
 \end_layout
 
 \begin_layout Labeling
