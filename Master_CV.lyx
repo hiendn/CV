@@ -7,8 +7,29 @@
 \textclass europasscv
 \begin_preamble
 \usepackage{url}
+
+\usepackage{geometry}
+\geometry{
+ a4paper,
+ left=15mm,
+ top=15mm,
+ right=15mm,
+ bottom=15mm,
+ head=10mm,
+headsep=0mm,
+footskip=0mm
+}
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\newcommand{\helv}{%
+\fontfamily{phv}\fontsize{9}{11}\selectfont}
+\renewcommand{\headrulewidth}{0.0pt}
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{\helv \thepage \textbackslash \pageref{LastPage}}
 \end_preamble
-\options nologo
+\options nologo,nodocument,black
 \use_default_options true
 \maintain_unincluded_children false
 \language english
