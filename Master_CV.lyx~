@@ -7,8 +7,29 @@
 \textclass europasscv
 \begin_preamble
 \usepackage{url}
+
+\usepackage{geometry}
+\geometry{
+ a4paper,
+ left=15mm,
+ top=15mm,
+ right=15mm,
+ bottom=15mm,
+ head=10mm,
+headsep=0mm,
+footskip=0mm
+}
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\newcommand{\helv}{%
+\fontfamily{phv}\fontsize{9}{11}\selectfont}
+\renewcommand{\headrulewidth}{0.0pt}
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{\helv \thepage \textbackslash \pageref{LastPage}}
 \end_preamble
-\options nologo
+\options nologo,nodocument,black
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -200,7 +221,7 @@ Visiting Research Fellow
 
 \begin_deeper
 \begin_layout Standard
-Mistis Team
+Statify (previously Mistis) Team 
 \end_layout
 
 \begin_layout Standard
@@ -1103,7 +1124,7 @@ Poster Presentations
 \labelwidthstring 00.00.0000
 2014 
 \series bold
-Asymptotic inference for hidden process regresion models
+Asymptotic inference for hidden process regression models
 \end_layout
 
 \begin_deeper
@@ -1393,6 +1414,38 @@ Location: Brisbane, Australia
 Invited Presentations and Workshops
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 
+\series bold
+The multiple testing problem in high-throughput biology 
+\series default
+(AgriBio Lectures in Mathematical Biology)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: La Trobe University, Melbourne (Delivered online)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 
+\series bold
+Approximate Bayesian compoutation via the energy statistic 
+\series default
+(One World Approximate Bayesian Computation (ABC) Seminar)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Warwick, UK (Delivered online)
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2020 
@@ -2049,6 +2102,19 @@ Conference Commitments
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2020 
+\series bold
+Program Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+18th Australasian Data Mining Conference (AusDM), Canberra Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2019 
 \series bold
 Workshop Co-chair
@@ -2172,6 +2238,10 @@ Information Sciences (Elsevier)
 
 \begin_layout Itemize
 International Journal of Computers and Applications (Taylor Francis)
+\end_layout
+
+\begin_layout Itemize
+International Journal of Forecasting (Elsevier)
 \end_layout
 
 \begin_layout Itemize
