@@ -133,7 +133,7 @@ hiendn.github.io
 \end_layout
 
 \begin_layout Section
-Academic and Research Positions
+Academic and Research Employment
 \end_layout
 
 \begin_layout Labeling
@@ -211,10 +211,11 @@ La Trobe University, Melbourne, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{2018, 2019}$
+2018,
+\begin_inset space ~
 \end_inset
 
- 
+2019 
 \series bold
 Visiting Research Fellow
 \end_layout
@@ -231,10 +232,11 @@ Inria Grenoble Rhone-Alpes, France
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{2015, 2019}$
+2015,
+\begin_inset space ~
 \end_inset
 
- 
+2019 
 \series bold
 Visiting Research Fellow
 \end_layout
@@ -252,10 +254,11 @@ Centre de Reserche de l'Institut Universitaire de Geriatrie de Montreal,
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{2017, 2018}$
+2017,
+\begin_inset space ~
 \end_inset
 
- 
+2018 
 \series bold
 Visiting Research and Teaching Fellow
 \end_layout
@@ -266,7 +269,7 @@ Lab of Mathematics: Nicolas Oresme
 \end_layout
 
 \begin_layout Standard
-University of Caen, France
+University of Caen, Normandy, France
 \end_layout
 
 \end_deeper
@@ -297,6 +300,25 @@ Project: Mixture modelling for multimodal medical imaging data
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Predoctoral Positions
+\end_layout
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2010 
@@ -391,20 +413,11 @@ Supervisors: Prof Geoffrey McLachlan, Dr Ian Wood, and Dr Andrew Janke
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{Thesis title}$
+Thesis
+\begin_inset space ~
 \end_inset
 
-: Finite mixture models for linear regression data
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-\begin_inset Formula $\text{Key words}$
-\end_inset
-
-: Expectation-maximization algorithm, false discovery rate control, minorization
--maximization algorithm, mixture model, neuroimaging, numerical optimization,
- random-effect models, regression
+title: Finite mixture models for linear regression data
 \end_layout
 
 \end_deeper
@@ -429,11 +442,12 @@ Supervisor: Dr Ian Wood and Dr Andrew George
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{Thesis title}$
+Thesis
+\begin_inset space ~
 \end_inset
 
-: Variable selection in linear models using metaheuristic algorithms with
- applications in genome-wide association studies
+title: Variable selection in linear models using metaheuristic algorithms
+ with applications in genome-wide association studies
 \end_layout
 
 \end_deeper
@@ -466,57 +480,44 @@ University of Queensland, Brisbane, Australia
 
 \end_deeper
 \begin_layout Section
-Teaching and Instruction
+Teaching and Coordination
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018 
+
 \series bold
-Optimization theory for statistics and machine learning
-\series default
- (University of Caen)
-\end_layout
+\begin_inset space ~
+\end_inset
 
-\begin_deeper
-\begin_layout Standard
-A series of five lectures and three computer practical sessions were taught
- on the topic of optimization theory and its application to statistics and
- machine learning problems.
- The course concentrated on the fundamental theory of optimization with
- an emphasis on the framework of majorization-minimization algorithms.
- Applications of focus included regularized smooth and non-smooth regression,
- estimation of generalized support vector machines, and maximum likelihood
- estimation of latent variable models such as mixed effects and finite mixture
- models.
- Computer classes concentrated on the construction of algorithms using the
- R programming language.
+ 
+\bar under
+Teaching
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Capacity: Visiting Teaching Fellow, Lab of Mathematics: Nicolas Oresme
-\end_layout
+2018,
+\begin_inset space ~
+\end_inset
 
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2018 
+2020 
 \series bold
 Models for bioinformatics
 \series default
- (STA5MB, La Trobe University)
+ (STA5MB, La Trobe University; Postgraduate)
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-A series of two lectures was taught on the topics of 
-\emph on
-k
-\emph default
--means clustering, model-based clustering, the expectation maximization
- algorithn, empirical-Bayesian inference and false discovery rate control,
- with applications in bioinformatics.
+A masters level course on the application of statistical models and methods
+ to the analysis of bioinformatics data.
+ This course covered the use of visualization and exploratory tools for
+ investigating bioinformatics data, as well as rigorous methods of analysis,
+ such as via hypothesis testing and false discovery rate control protocols.
+ The course contained both theoretical and practical aspects of bioinformatics
+ data analysis, as well as computation, which was taught in the R programming
+ language.
 \end_layout
 
 \begin_layout Labeling
@@ -531,7 +532,7 @@ Capacity: Lecturer, Department of Mathematics and Statistics
 \series bold
 Experimental design
 \series default
- (STAT3003, University of Queensland)
+ (STAT3003, University of Queensland; Undergraduate)
 \end_layout
 
 \begin_deeper
@@ -546,6 +547,55 @@ Capacity: Casual Lecturer, School of Mathematics and Physics
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Coordination
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 
+\series bold
+Biostatistics
+\series default
+ (STA2BS, La Trobe University; Undergraduate)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 
+\series bold
+Engineering probability and statistics
+\series default
+ (STM2EPS, La Trobe University; Undergraduate)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Predoctoral Positions
+\end_layout
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2009–2014 
@@ -631,10 +681,23 @@ Service: Biomedical science (BIOM3200; 2012–2014), Research methodology
 Peer-Reviewed Publications
 \end_layout
 
-\begin_layout Standard
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 
 \series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
 Journal Articles
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -647,8 +710,25 @@ options "plainyrrev"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
 \series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
 Conference Papers
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -661,8 +741,25 @@ options "plainyrrev"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
 \series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
 Book Chapters
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -725,7 +822,7 @@ Inria Associate Teams
 \begin_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Coinvestigator: Dr Florence Forbes (Inria Rhone-Alpes)
+Co-investigator: Dr Florence Forbes (Inria Rhone-Alpes)
 \end_layout
 
 \begin_layout Labeling
@@ -751,7 +848,7 @@ Australian Research Council
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Coinvestigators: Prof Geoffrey McLachlan (University of Queensland) and
+Co-investigators: Prof Geoffrey McLachlan (University of Queensland) and
  Dr Sharon Lee (University of Queensland)
 \end_layout
 
@@ -818,7 +915,7 @@ Ministry of Europe and Foreign Affairs, and Ministry of Higher Education,
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Coawardee: Dr Florence Forbes (Inria Rhone-Alpes)
+Co-awardee: Dr Florence Forbes (Inria Rhone-Alpes)
 \end_layout
 
 \begin_layout Labeling
@@ -1083,10 +1180,11 @@ Teaching Awards
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{2013, 2014}$
+2013,
+\begin_inset space ~
 \end_inset
 
- 
+2014 
 \series bold
 Distinguished Teaching Award
 \end_layout
@@ -1110,41 +1208,182 @@ School of Mathematics and Physics, University of Queensland
 \end_layout
 
 \end_deeper
-\begin_layout Section
-Conference Presentations
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-
-\series bold
-Poster Presentations
+\begin_layout Section
+Student Supervision
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2014 
+2020 
 \series bold
-Asymptotic inference for hidden process regression models
+Nauvoo Perez 
+\series default
+(AMSI Vacation Scholar, La Trobe University)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Statistical learning for time-to-relapse of colorectal cancer patients
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019– 
+\series bold
+Fazel Almasi 
+\series default
+(PhD Candidate, La Trobe University)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Profs Michael Stear, Aniruddha Desai, and Drs Markandeya
+ Jois and Eric Ponnampalam, La Trobe University
+\end_layout
+
+\begin_layout Standard
+Project: Parasitological and behavioral study of lambs using sensor technology
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019– 
+\series bold
+Cong Duc Phan 
+\series default
+(PhD Candidate, La Trobe University)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Dr Long Truong, La Trobe University
+\end_layout
+
+\begin_layout Standard
+Project: Exploring the road safety impacts of transport demand management
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019– 
+\series bold
+Daniel Fryer 
+\series default
+(PhD Candidate, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Prof Geoffrey McLachlan and Dr Ian Wood, University of
+ Queensland
+\end_layout
+
+\begin_layout Standard
+Project: Interpretable methods in AI and statistics
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018– 
+\series bold
+Trung Tin Nguyen 
+\series default
+(PhD Candidate, University of Caen, Normandy)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Prof Faicel Chamroukhi, University of Caen, Normandy
+\end_layout
+
+\begin_layout Standard
+Project: Learning and approximation theory of mixture models and mixture
+ of experts
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017– 
+\series bold
+Mason Terrett 
+\series default
+(PhD Candidate, La Trobe University)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Dr Tanya Doody, CSIRO
+\end_layout
+
+\begin_layout Standard
+Project: Applications of synthetic aperture radar for the identification
+ of groundwater-dependent ecosystems
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017– 
+\series bold
+Jessica Bagnall 
+\series default
+(PhD Candidate, La Trobe University)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Machine learning methods in social science
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Conference Presentations
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Oral Presentations
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 
+\series bold
+Global implicit function theorems and the online EM algorithm
 \end_layout
 
 \begin_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Conference: IEEE Statistical Signal Processing Workshop
+Conference: 14th International Conference of the ERCIM WG on Computational
+ and Methodological Statistics (CMStatistics)
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Location: Gold Coast, Australia
+Location: London, UK (Delivered online)
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-
-\series bold
-Oral Presentations
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2019 
@@ -1354,10 +1593,6 @@ Spatial clustering of time-series via mixtures of autoregressive models
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
-https://www.dropbox.com/s/d03n4hy4pepu056/Slides.pdf?dl=0
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Conference: 8th International Conference of the ERCIM WG on Computational
@@ -1410,10 +1645,96 @@ Location: Brisbane, Australia
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Poster Presentations
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2014 
+\series bold
+Asymptotic inference for hidden process regression models
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: IEEE Statistical Signal Processing Workshop
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Gold Coast, Australia
+\end_layout
+
+\end_deeper
 \begin_layout Section
 Invited Presentations and Workshops
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021 
+\series bold
+Order selection with confidence for mixture models 
+\series default
+(Department of Mathematics and Statistics Colloquium)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Macquarie University, Sydney (Delivered online)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 
+\series bold
+Machine learning for statistical analysis – it's just a game! 
+\series default
+(AgriBio, Intellectual Climate Fund talk)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: La Trobe University, Melbourne (Delivered online)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 
+\series bold
+Multivariate analyses—A normal approach 
+\series default
+(AgriBio, Intellectual Climate Fund talk)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: La Trobe University, Melbourne (Delivered online)
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2020 
@@ -1434,7 +1755,7 @@ Location: La Trobe University, Melbourne (Delivered online)
 \labelwidthstring 00.00.0000
 2020 
 \series bold
-Approximate Bayesian compoutation via the energy statistic 
+Approximate Bayesian computation via the energy statistic 
 \series default
 (One World Approximate Bayesian Computation (ABC) Seminar)
 \end_layout
@@ -1545,7 +1866,7 @@ Location: Monash University, Australia
 \series bold
 A maximum likelihood oddity
 \series default
- (Statstics Seminar)
+ (Statistics Seminar)
 \end_layout
 
 \begin_deeper
@@ -1637,7 +1958,7 @@ Location: Inria Grenoble Rhone-Alpes, France
 \labelwidthstring 00.00.0000
 2017 
 \series bold
-Majorization-minimization (MM) algorithms for statistical inference and
+Majorization–minimization (MM) algorithms for statistical inference and
  machine learning problems 
 \series default
 (Research Summer School in Statistics and Big Data Science)
@@ -1654,7 +1975,7 @@ Location: University of Caen, France
 \labelwidthstring 00.00.0000
 2017 
 \series bold
-Chunked-and-averaged estimators for statistically embarassingly parallel
+Chunked-and-averaged estimators for statistically embarrassingly parallel
  computation and online learning 
 \series default
 (Workshop on Big Data Analysis)
@@ -1788,14 +2109,14 @@ Professional Service
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2020 
+2020– 
 \series bold
-Elected Member of the Academic Board
+Mathematics, Statistics, and Data Science Majors Course Advisor
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Level C/D Representative
+Bachelor of Science Program, College of Science, Health and Engineering
 \end_layout
 
 \begin_layout Labeling
@@ -1806,7 +2127,25 @@ Institution: La Trobe University, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018–2020 
+2020– 
+\series bold
+Elected Member of the Academic Board
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Levels C/D Representative
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: La Trobe University, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018– 
 \series bold
 PhD Confirmations Committee Chair
 \end_layout
@@ -1824,12 +2163,9 @@ Institution: La Trobe University, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{2017, 2018}$
-\end_inset
-
- 
+2017– 
 \series bold
-Statistics Seminar Administrator
+Masters Theses Committee Member
 \end_layout
 
 \begin_deeper
@@ -1845,9 +2181,13 @@ Institution: La Trobe University, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2017–2019 
+2017,
+\begin_inset space ~
+\end_inset
+
+2018 
 \series bold
-Masters Theses Committee Member
+Statistics Seminar Administrator
 \end_layout
 
 \begin_deeper
@@ -1899,10 +2239,11 @@ Institution: University of Queensland, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{2012, 2013}$
+2012,
+\begin_inset space ~
 \end_inset
 
- 
+2013 
 \series bold
 Interview Panel Member for Statistics Lecturer Positions
 \end_layout
@@ -1920,10 +2261,11 @@ Institution: University of Queensland, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{2012, 2013}$
+2012,
+\begin_inset space ~
 \end_inset
 
- 
+2013 
 \series bold
 Treasurer
 \end_layout
@@ -1961,15 +2303,21 @@ Institution: University of Queensland, Australia
 Academic Service
 \end_layout
 
-\begin_layout Standard
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 
 \series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
 Grant Assessor
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2020 
+2020– 
 \series bold
 Future Fellowships
 \end_layout
@@ -1995,10 +2343,11 @@ Australian Research Council, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset Formula $\text{2018, 2019}$
+2018,
+\begin_inset space ~
 \end_inset
 
- 
+2019 
 \series bold
 Linkage Projects
 \end_layout
@@ -2024,7 +2373,7 @@ Free University of Bozen-Bolzano, Italy
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2017–2019 
+2017– 
 \series bold
 Discovery Projects
 \end_layout
@@ -2037,7 +2386,7 @@ Australian Research Council, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2017–2019 
+2017– 
 \series bold
 Discovery Early Career Research Awards
 \end_layout
@@ -2048,9 +2397,15 @@ Australian Research Council, Australia
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 
 \series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
 Editorial Positions
 \end_layout
 
@@ -2082,21 +2437,13 @@ Australian and New Zealand Journal of Statistics (Wiley)
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018– 
-\series bold
-Associate Editor
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-International Journal of Machine Intelligence and Sensory Signal Processing
- (Inderscience)
-\end_layout
-
-\end_deeper
-\begin_layout Standard
 
 \series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
 Conference Commitments
 \end_layout
 
@@ -2182,22 +2529,38 @@ Program Committee Member
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 
 \series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
 Peer Review
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
 Advances in Data Analysis and Classification (Springer)
 \end_layout
 
+\end_deeper
 \begin_layout Itemize
 Applied Mathematical Modelling (Elsevier)
 \end_layout
 
 \begin_layout Itemize
+Annals of Applied Statistics (Project Euclid)
+\end_layout
+
+\begin_layout Itemize
 Australasian Journal of Information Systems (Australian Computer Society)
+\end_layout
+
+\begin_layout Itemize
+Australian and New Zealand Journal of Statistics (Wiley)
 \end_layout
 
 \begin_layout Itemize
@@ -2247,6 +2610,10 @@ International Journal of Forecasting (Elsevier)
 \begin_layout Itemize
 International Journal of Machine Intelligence and Sensory Signal Processing
  (Inderscience)
+\end_layout
+
+\begin_layout Itemize
+Journal of the American Statistical Association (Taylor Francis)
 \end_layout
 
 \begin_layout Itemize
@@ -2303,7 +2670,7 @@ Professional Memberships
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2020 Statistical Society of Australia (Victoria Branch, Council Member)
+2020– Statistical Society of Australia (Victoria Branch, Council Member)
 \end_layout
 
 \begin_layout Labeling
@@ -2314,11 +2681,6 @@ Professional Memberships
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2018– Australian-French Association for Research and Innovation (AFRAN)
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2018– NumFOCUS Community Member
 \end_layout
 
 \end_body
