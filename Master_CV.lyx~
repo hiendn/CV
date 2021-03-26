@@ -121,6 +121,8 @@ Department of Mathematics and Statistics, La Trobe University, Melbourne
 \end_layout
 
 \begin_layout Email
+
+\family typewriter
 h.nguyen5@latrobe.edu.au
 \end_layout
 
@@ -129,6 +131,8 @@ h.nguyen5@latrobe.edu.au
 \end_layout
 
 \begin_layout Homepage
+
+\family typewriter
 hiendn.github.io
 \end_layout
 
@@ -437,7 +441,7 @@ University of Queensland, Brisbane, Australia
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Supervisor: Dr Ian Wood and Dr Andrew George
+Supervisors: Dr Ian Wood and Dr Andrew George
 \end_layout
 
 \begin_layout Labeling
@@ -2541,12 +2545,10 @@ Program Committee Member
 Peer Review
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 Advances in Data Analysis and Classification (Springer)
 \end_layout
 
-\end_deeper
 \begin_layout Itemize
 Applied Mathematical Modelling (Elsevier)
 \end_layout
