@@ -1579,7 +1579,7 @@ Conference: Joint Statistics Meeting
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Location: Baltimore, Australia
+Location: Baltimore, USA
 \end_layout
 
 \end_deeper
@@ -1814,6 +1814,21 @@ Shapley values for linear regression models and its application to explainable
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: University of Sydney, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Approximation by finite mixtures of continuous density functions that vanish
+ at infinity
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Glasgow, Scotland
 \end_layout
 
 \end_deeper
