@@ -812,6 +812,28 @@ Grants and Research Funding
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2021–2023 
+\series bold
+Australian Government Road Safety Innovation Fund 
+\series default
+(101,248 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigator: Dr Long Truong (La Trobe University)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Latent analysis, adversarial networks, and DimEnsionality Reduction
+ (LANDER)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2019–2021 
 \series bold
 Inria Associate Teams 
@@ -1368,6 +1390,25 @@ Oral Presentations
 \labelwidthstring 00.00.0000
 2021 
 \series bold
+Universal inference with composite likelihoods
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: ISI World Statistics Congress 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Online
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021 
+\series bold
 Distance-based ABC procedures
 \end_layout
 
@@ -1814,6 +1855,21 @@ Shapley values for linear regression models and its application to explainable
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location: University of Sydney, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Approximation by finite mixtures of continuous density functions that vanish
+ at infinity
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Glasgow, Scotland
 \end_layout
 
 \end_deeper
