@@ -116,12 +116,12 @@ Hien Duy Nguyen
 \end_layout
 
 \begin_layout Address
-Department of Mathematics and Statistics, La Trobe University, Melbourne
- 3086, VIC Australia
+School of Mathematics and Physics, University of Queensland, St.
+ Lucia Queensland, Australia
 \end_layout
 
 \begin_layout Email
-h.nguyen5@latrobe.edu.au
+h.nguyen7@uq.edu.au
 \end_layout
 
 \begin_layout Telephone
@@ -138,7 +138,41 @@ Academic and Research Employment
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2020– 
+2021– 
+\series bold
+Senior Lecturer
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Standard
+University of Queensland, Brisbane, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021– 
+\series bold
+Adjunct Senior Lecturer
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Standard
+La Trobe University, Melbourne, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020–2021 
 \series bold
 Deputy Head of Department
 \end_layout
@@ -155,7 +189,7 @@ La Trobe University, Melbourne, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2019– 
+2019–2021 
 \series bold
 Senior Lecturer
 \end_layout
@@ -827,8 +861,8 @@ Co-investigator: Dr Long Truong (La Trobe University)
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Project: Latent analysis, adversarial networks, and DimEnsionality Reduction
- (LANDER)
+Project: Development of planning-stage crash prediction tools for use at
+ the planning stages
 \end_layout
 
 \end_deeper
