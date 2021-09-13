@@ -27,7 +27,7 @@ footskip=0mm
 \renewcommand{\headrulewidth}{0.0pt}
 \pagestyle{fancy}
 \fancyhf{}
-\rfoot{\helv \thepage \textbackslash \pageref{LastPage}}
+\rfoot{\helv \thepage / \pageref{LastPage}}
 \end_preamble
 \options nologo,nodocument,black
 \use_default_options true
@@ -155,40 +155,6 @@ University of Queensland, Brisbane, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2021– 
-\series bold
-Adjunct Senior Lecturer
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Department of Mathematics and Statistics
-\end_layout
-
-\begin_layout Standard
-La Trobe University, Melbourne, Australia
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2020–2021 
-\series bold
-Deputy Head of Department
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Department of Mathematics and Statistics
-\end_layout
-
-\begin_layout Standard
-La Trobe University, Melbourne, Australia
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
 2019–2021 
 \series bold
 Senior Lecturer
@@ -240,70 +206,6 @@ Department of Mathematics and Statistics
 
 \begin_layout Standard
 La Trobe University, Melbourne, Australia
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2018,
-\begin_inset space ~
-\end_inset
-
-2019 
-\series bold
-Visiting Research Fellow
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Statify (previously Mistis) Team 
-\end_layout
-
-\begin_layout Standard
-Inria Grenoble Rhone-Alpes, France
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2015,
-\begin_inset space ~
-\end_inset
-
-2019 
-\series bold
-Visiting Research Fellow
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-SIMEXP Laboratory
-\end_layout
-
-\begin_layout Standard
-Centre de Reserche de l'Institut Universitaire de Geriatrie de Montreal,
- Canada
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2017,
-\begin_inset space ~
-\end_inset
-
-2018 
-\series bold
-Visiting Research and Teaching Fellow
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Lab of Mathematics: Nicolas Oresme
-\end_layout
-
-\begin_layout Standard
-University of Caen, Normandy, France
 \end_layout
 
 \end_deeper
@@ -422,6 +324,122 @@ Project: Association analysis in sugarcane—on the hunt for sugar genes
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Honorary, Adjunct, and Service Appointments
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021– 
+\series bold
+Adjunct Senior Lecturer
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Standard
+La Trobe University, Melbourne, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020–2021 
+\series bold
+Deputy Head of Department
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Standard
+La Trobe University, Melbourne, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018,
+\begin_inset space ~
+\end_inset
+
+2019 
+\series bold
+Visiting Research Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Statify (previously Mistis) Team 
+\end_layout
+
+\begin_layout Standard
+Inria Grenoble Rhone-Alpes, France
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015,
+\begin_inset space ~
+\end_inset
+
+2019 
+\series bold
+Visiting Research Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+SIMEXP Laboratory
+\end_layout
+
+\begin_layout Standard
+Centre de Reserche de l'Institut Universitaire de Geriatrie de Montreal,
+ Canada
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017,
+\begin_inset space ~
+\end_inset
+
+2018 
+\series bold
+Visiting Research and Teaching Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Lab of Mathematics: Nicolas Oresme
+\end_layout
+
+\begin_layout Standard
+University of Caen, Normandy, France
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Tertiary Education
 \end_layout
@@ -513,6 +531,13 @@ University of Queensland, Brisbane, Australia
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Teaching and Coordination
 \end_layout
@@ -2256,7 +2281,7 @@ Institution: La Trobe University, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2020– 
+2020–2021 
 \series bold
 Elected Member of the Academic Board
 \end_layout
@@ -2274,7 +2299,7 @@ Institution: La Trobe University, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018– 
+2018–2021 
 \series bold
 PhD Confirmations Committee Chair
 \end_layout
@@ -2292,7 +2317,7 @@ Institution: La Trobe University, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2017– 
+2017–2021 
 \series bold
 Masters Theses Committee Member
 \end_layout
@@ -2538,6 +2563,19 @@ Australian Research Council, Australia
 Editorial Positions
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021– 
+\series bold
+Associate Editor (Statistics)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Frontiers in Applied Mathematics and Statistics (Frontiers)
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2019– 
