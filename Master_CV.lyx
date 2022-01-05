@@ -666,11 +666,10 @@ Predoctoral Positions
 Tutor
 \series default
  (School of Economics, University of Queensland)
-\end_layout
+\begin_inset Note Comment
+status open
 
-\begin_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 Undergraduate: Applied econometrics for macroeconomics and finance (ECON3350;
  2014), Mathematical economics (ECON2050; 2012–2014), Tools of economic
  analysis (ECON1050; 2011, 2014), Introductory econometrics (2300; 2012),
@@ -678,14 +677,17 @@ Undergraduate: Applied econometrics for macroeconomics and finance (ECON3350;
 ive economics and business analysis A (ECON1310; 2009)
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 Postgraduate: Mathematical techniques for economics (ECON7150; 2013, 2014),
  Statistics for business and economics (ECON7300; 2010–2013), Elements of
  econometrics (ECON7310; 2012)
 \end_layout
 
-\end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2007–2014 
@@ -693,33 +695,34 @@ Postgraduate: Mathematical techniques for economics (ECON7150; 2013, 2014),
 Tutor
 \series default
  (School of Mathematics and Physics, University of Queensland)
-\end_layout
+\begin_inset Note Comment
+status open
 
-\begin_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 Mathematics: Multivariate calculus and ODE (MATH1052; 2008, 2012), Calculus
  and linear algebra II (MATH2000; 2010), Calculus and linear algebra I (MATH1051
 ; 2009), Basic mathematics (MATH1040; 2007)
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 Statistics: Advanced analysis of scientific data (STAT1301; 2014), Experimental
  design (STAT3003; 2012, 2013), Analysis of scientific data (STAT1201; 2008–2011
 ), Analysis of engineering and scientific data (STAT2201; 2009), Probability
  models for engineering and science (STAT2203; 2008)
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 Service: Biomedical science (BIOM3200; 2012–2014), Research methodology
  (HRSS7806; 2011–2013), Pharmacy – data analysis and professional practice
  (PHRM1020; 2008, 2009, 2011), Advanced research processes in health sciences
  (HRSS7808; 2010)
 \end_layout
 
-\end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset Separator plain
 \end_inset
@@ -1293,6 +1296,30 @@ Student Supervision
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2018–2021 
+\series bold
+Trung Tin Nguyen 
+\series default
+(PhD Candidate, University of Caen, Normandy)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Prof Faicel Chamroukhi, University of Caen, Normandy
+\end_layout
+
+\begin_layout Standard
+Project: Learning and approximation theory of mixture models and mixture
+ of experts
+\end_layout
+
+\begin_layout Standard
+Currently: Postdoctoral researcher at Statify Lab, Inria Grenoble Rhone–Alpes
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2020 
 \series bold
 Nauvoo Perez 
@@ -1367,26 +1394,6 @@ Project: Interpretable methods in AI and statistics
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018– 
-\series bold
-Trung Tin Nguyen 
-\series default
-(PhD Candidate, University of Caen, Normandy)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Co-supervised with Prof Faicel Chamroukhi, University of Caen, Normandy
-\end_layout
-
-\begin_layout Standard
-Project: Learning and approximation theory of mixture models and mixture
- of experts
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
 2017– 
 \series bold
 Mason Terrett 
@@ -1436,6 +1443,26 @@ Conference Presentations
 Oral Presentations
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021 
+\series bold
+Finite sample inference for nonlinear autoregressive models
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 15th International Conference of the ERCIM WG on Computational
+ and Methodological Statistics (CMStatistics)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: London, UK (Delivered online)
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2021 
@@ -1797,6 +1824,38 @@ Location: Gold Coast, Australia
 Invited Presentations and Workshops
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021 
+\series bold
+Finite sample inference for generic autoregressive models 
+\series default
+(Math for Industry Forum)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: VIASM, Hanoi, Vietnam (Delivered online)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021 
+\series bold
+Approximate Bayesian computation 
+\series default
+(Intellectual Climate Fund Seminar)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: La Trobe University, Melbourne (Delivered online)
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2021 
@@ -2708,6 +2767,10 @@ Annals of Applied Statistics (Project Euclid)
 \end_layout
 
 \begin_layout Itemize
+Annals of Statistics (Project Euclid)
+\end_layout
+
+\begin_layout Itemize
 Australasian Journal of Information Systems (Australian Computer Society)
 \end_layout
 
@@ -2822,7 +2885,7 @@ Professional Memberships
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2020– Statistical Society of Australia (Victoria Branch, Council Member)
+2020–2021 Statistical Society of Australia (Victoria Branch, Council Member)
 \end_layout
 
 \begin_layout Labeling
