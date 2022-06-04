@@ -106,13 +106,4 @@
   owner        = {uqhngu10},
 }
 
-@InProceedings{Nguyen2022a,
-  author       = {T T Nguyen and F Chamroukhi and H D Nguyen and F Forbes},
-  booktitle    = {53emes Journees de Statistique de la Societe Française de Statistique (SFdS)},
-  title        = {{Model selection by penalization in mixture of experts models with a non-asymptotic approach}},
-  year         = {2022},
-  creationdate = {2022-04-26T13:18:21},
-  owner        = {uqhngu10},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
