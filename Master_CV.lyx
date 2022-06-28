@@ -556,24 +556,43 @@ Teaching
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018,
-\begin_inset space ~
-\end_inset
+2022 
+\series bold
+Mathematics for Data Science 1
+\series default
+ (MATH7501, University of Queensland; Undergraduate)
+\end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021 
+\series bold
+Statistical Learning
+\series default
+ (STAT3006, University of Queensland; Undergraduate)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2020,
 \begin_inset space ~
 \end_inset
 
-2021 
+2021
 \series bold
-Models for bioinformatics
+ Models for bioinformatics
 \series default
  (STA5MB, La Trobe University; Postgraduate)
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-A masters level course on the application of statistical models and methods
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Also 2018.
+ A masters level course on the application of statistical models and methods
  to the analysis of bioinformatics data.
  This course covered the use of visualization and exploratory tools for
  investigating bioinformatics data, as well as rigorous methods of analysis,
@@ -583,9 +602,9 @@ A masters level course on the application of statistical models and methods
  language.
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Capacity: Lecturer, Department of Mathematics and Statistics
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -600,13 +619,17 @@ Experimental design
 
 \begin_deeper
 \begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
 A series of four lectures was taught on the topic of sampling theory and
  finite population statistics.
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Capacity: Casual Lecturer, School of Mathematics and Physics
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -627,6 +650,19 @@ Capacity: Casual Lecturer, School of Mathematics and Physics
  
 \bar under
 Coordination
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020,
+\begin_inset space ~
+\end_inset
+
+2021 
+\series bold
+Models for bioinformatics
+\series default
+ (STA5MB, La Trobe University; Postgraduate)
 \end_layout
 
 \begin_layout Labeling
@@ -1296,11 +1332,68 @@ Student Supervision
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2022– 
+\series bold
+Callum Macfarlane 
+\series default
+(Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Em Prof Alan Mark and Dr Martin Stroet, University of
+ Queensland
+\end_layout
+
+\begin_layout Standard
+Project: Optimisation methods of refined point charge fitting for molecular
+ modelling forcefields
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022 
+\series bold
+Mark Chong 
+\series default
+(Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Risk bounds for mixture density estimation on compact sets via
+ Bregman divergences
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021–2022 
+\series bold
+Nicholas Williams 
+\series default
+(Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Dr Ramiro Lafuente, University of Queensland
+\end_layout
+
+\begin_layout Standard
+Project: Links between maximum likelihood estimation and geometric invariant
+ theory
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2018–2021 
 \series bold
 Trung Tin Nguyen 
 \series default
-(PhD Candidate, University of Caen, Normandy)
+(PhD, University of Caen, Normandy)
 \end_layout
 
 \begin_deeper
@@ -1339,7 +1432,7 @@ Project: Statistical learning for time-to-relapse of colorectal cancer patients
 \series bold
 Fazel Almasi 
 \series default
-(PhD Candidate, La Trobe University)
+(PhD, La Trobe University)
 \end_layout
 
 \begin_deeper
@@ -1359,7 +1452,7 @@ Project: Parasitological and behavioral study of lambs using sensor technology
 \series bold
 Cong Duc Phan 
 \series default
-(PhD Candidate, La Trobe University)
+(MRes, La Trobe University)
 \end_layout
 
 \begin_deeper
@@ -1378,7 +1471,7 @@ Project: Exploring the road safety impacts of transport demand management
 \series bold
 Daniel Fryer 
 \series default
-(PhD Candidate, University of Queensland)
+(PhD, University of Queensland)
 \end_layout
 
 \begin_deeper
@@ -1392,8 +1485,11 @@ Project: Interpretable methods in AI and statistics
 \end_layout
 
 \end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
 2017– 
 \series bold
 Mason Terrett 
@@ -1401,19 +1497,16 @@ Mason Terrett
 (PhD Candidate, La Trobe University)
 \end_layout
 
-\begin_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 Co-supervised with Dr Tanya Doody, CSIRO
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Project: Applications of synthetic aperture radar for the identification
  of groundwater-dependent ecosystems
 \end_layout
 
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 2017– 
 \series bold
 Jessica Bagnall 
@@ -1421,12 +1514,15 @@ Jessica Bagnall
 (PhD Candidate, La Trobe University)
 \end_layout
 
-\begin_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 Project: Machine learning methods in social science
 \end_layout
 
-\end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Conference Presentations
 \end_layout
@@ -2309,7 +2405,61 @@ Professional Service
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2020– 
+2022– 
+\series bold
+Student Misconduct Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: University of Queensland, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022– 
+\series bold
+Faculty EMCA Reference Group Representative
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: University of Queensland, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021– 
+\series bold
+Statistics, Modelling and Operations Research Seminar Administrator
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: University of Queensland, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020–2021 
 \series bold
 Mathematics, Statistics, and Data Science Majors Course Advisor
 \end_layout
@@ -2419,26 +2569,25 @@ Institution: University of Queensland, Australia
 \end_layout
 
 \end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
 2015 
 \series bold
 Promotion Application Assessor
 \end_layout
 
-\begin_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 School of Mathematics and Physics
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 Institution: University of Queensland, Australia
 \end_layout
 
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 2012,
 \begin_inset space ~
 \end_inset
@@ -2448,17 +2597,19 @@ Institution: University of Queensland, Australia
 Interview Panel Member for Statistics Lecturer Positions
 \end_layout
 
-\begin_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 School of Mathematics and Physics
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 Institution: University of Queensland, Australia
 \end_layout
 
-\end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2012,
@@ -2754,131 +2905,33 @@ Program Committee Member
 Peer Review
 \end_layout
 
-\begin_layout Itemize
-Advances in Data Analysis and Classification (Springer)
+\begin_deeper
+\begin_layout Standard
+Advances in Data Analysis and Classification (Springer);Applied Mathematical
+ Modelling (Elsevier); Annals of Applied Statistics (Project Euclid); Annals
+ of Statistics (Project Euclid); Australasian Journal of Information Systems
+ (Australian Computer Society); Australian and New Zealand Journal of Statistics
+ (Wiley); BMC Bioinformatics (BioMed Central); Computational Statistics
+ (Springer); Computational Statistics and Data Analysis (Elsevier); Communicatio
+ns in Statistics – Simulation and Computation (Taylor Francis); Electronic
+ Journal of Statistics (Project Euclid); IEEE Transactions on Fuzzy Systems
+ (IEEE); IEEE Transactions on Image Processing (IEEE); IEEE Transactions
+ on Medical Imaging (IEEE); Information Sciences (Elsevier); International
+ Journal of Computers and Applications (Taylor Francis); International Journal
+ of Forecasting (Elsevier); International Journal of Machine Intelligence
+ and Sensory Signal Processing (Inderscience); Journal of the American Statistic
+al Association (Taylor Francis); Journal of Computational and Graphical
+ Statistics (Taylor Francis); Journal of Open Source Software (Open Source
+ Initiative); Journal of Statistical Computation and Simulation (Taylor
+ Francis); Journal of Statistical Planning and Inference (Elsevier); Knowledge-B
+ased Systems (Elsevier); Royal Society Open Science (Royal Society); Statistical
+ Modelling: An International Journal (SAGE); Statistical Analysis and Data
+ Mining (Wiley); Statistics Surveys (Project Euclid); Statistics and Computing
+ (Springer); Statistics in Medicine (Wiley); WIREs: Data Mining and Knowledge
+ Discovery (Wiley)
 \end_layout
 
-\begin_layout Itemize
-Applied Mathematical Modelling (Elsevier)
-\end_layout
-
-\begin_layout Itemize
-Annals of Applied Statistics (Project Euclid)
-\end_layout
-
-\begin_layout Itemize
-Annals of Statistics (Project Euclid)
-\end_layout
-
-\begin_layout Itemize
-Australasian Journal of Information Systems (Australian Computer Society)
-\end_layout
-
-\begin_layout Itemize
-Australian and New Zealand Journal of Statistics (Wiley)
-\end_layout
-
-\begin_layout Itemize
-BMC Bioinformatics (BioMed Central)
-\end_layout
-
-\begin_layout Itemize
-Computational Statistics (Springer)
-\end_layout
-
-\begin_layout Itemize
-Computational Statistics and Data Analysis (Elsevier)
-\end_layout
-
-\begin_layout Itemize
-Communications in Statistics – Simulation and Computation (Taylor Francis)
-\end_layout
-
-\begin_layout Itemize
-Electronic Journal of Statistics (Project Euclid)
-\end_layout
-
-\begin_layout Itemize
-IEEE Transactions on Fuzzy Systems (IEEE)
-\end_layout
-
-\begin_layout Itemize
-IEEE Transactions on Image Processing (IEEE)
-\end_layout
-
-\begin_layout Itemize
-IEEE Transactions on Medical Imaging (IEEE)
-\end_layout
-
-\begin_layout Itemize
-Information Sciences (Elsevier)
-\end_layout
-
-\begin_layout Itemize
-International Journal of Computers and Applications (Taylor Francis)
-\end_layout
-
-\begin_layout Itemize
-International Journal of Forecasting (Elsevier)
-\end_layout
-
-\begin_layout Itemize
-International Journal of Machine Intelligence and Sensory Signal Processing
- (Inderscience)
-\end_layout
-
-\begin_layout Itemize
-Journal of the American Statistical Association (Taylor Francis)
-\end_layout
-
-\begin_layout Itemize
-Journal of Computational and Graphical Statistics (Taylor Francis)
-\end_layout
-
-\begin_layout Itemize
-Journal of Open Source Software (Open Source Initiative)
-\end_layout
-
-\begin_layout Itemize
-Journal of Statistical Computation and Simulation (Taylor Francis)
-\end_layout
-
-\begin_layout Itemize
-Journal of Statistical Planning and Inference (Elsevier)
-\end_layout
-
-\begin_layout Itemize
-Knowledge-Based Systems (Elsevier)
-\end_layout
-
-\begin_layout Itemize
-Royal Society Open Science (Royal Society)
-\end_layout
-
-\begin_layout Itemize
-Statistical Modelling: An International Journal (SAGE)
-\end_layout
-
-\begin_layout Itemize
-Statistical Analysis and Data Mining (Wiley)
-\end_layout
-
-\begin_layout Itemize
-Statistics Surveys (Project Euclid)
-\end_layout
-
-\begin_layout Itemize
-Statistics and Computing (Springer)
-\end_layout
-
-\begin_layout Itemize
-Statistics in Medicine (Wiley)
-\end_layout
-
-\begin_layout Itemize
-WIREs: Data Mining and Knowledge Discovery (Wiley)
-\end_layout
-
+\end_deeper
 \begin_layout Section
 Professional Memberships
 \end_layout
