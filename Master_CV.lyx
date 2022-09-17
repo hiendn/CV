@@ -1541,6 +1541,50 @@ Oral Presentations
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2022 
+\begin_inset Formula $\left(\text{\textbf{SAM}}\right)^{2}$
+\end_inset
+
+
+\series bold
+: a family of sequential sample averaging algorithms via majorization–minimizati
+on
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: CSDA and EcoSta Workshop on Statistical Data Science
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Bologna, Italy (Delivered online)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022 
+\series bold
+An online MM algorithm
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 17th conference of the International Federation of Classification
+ Societies
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Porto, Portugal
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2021 
 \series bold
 Finite sample inference for nonlinear autoregressive models
@@ -1920,6 +1964,24 @@ Location: Gold Coast, Australia
 Invited Presentations and Workshops
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022 
+\series bold
+Asymptotic concentration of the ABC posterior estimator without identifiability
+ 
+\series default
+(ICASM)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: University of Economics, Ho Chi Minh City, Vietnam (Delivered
+ online)
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2021 
@@ -2425,7 +2487,7 @@ Institution: University of Queensland, Australia
 \labelwidthstring 00.00.0000
 2022– 
 \series bold
-Faculty EMCA Reference Group Representative
+Faculty EMCA Reference Group Representative and School EMCA Committee Member
 \end_layout
 
 \begin_deeper

@@ -1332,7 +1332,7 @@ Student Supervision
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022 
+2022– 
 \series bold
 Callum Macfarlane 
 \series default
@@ -1539,6 +1539,50 @@ Conference Presentations
 Oral Presentations
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022 
+\begin_inset Formula $\left(\text{\textbf{SAM}}\right)^{2}$
+\end_inset
+
+
+\series bold
+: a family of sequential sample averaging algorithms via majorization–minimizati
+on
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: CSDA and EcoSta Workshop on Statistical Data Science
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Bologna, Italy (Delivered online)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022 
+\series bold
+An online MM algorithm
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: 17th conference of the International Federation of Classification
+ Societies
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Porto, Portugal
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2021 
@@ -2425,7 +2469,7 @@ Institution: University of Queensland, Australia
 \labelwidthstring 00.00.0000
 2022– 
 \series bold
-Faculty EMCA Reference Group Representative
+Faculty EMCA Reference Group Representative and School EMCA Committee Member
 \end_layout
 
 \begin_deeper
