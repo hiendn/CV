@@ -1332,43 +1332,6 @@ Student Supervision
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022– 
-\series bold
-Callum Macfarlane 
-\series default
-(Honours, University of Queensland)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Co-supervised with Em Prof Alan Mark and Dr Martin Stroet, University of
- Queensland
-\end_layout
-
-\begin_layout Standard
-Project: Optimisation methods of refined point charge fitting for molecular
- modelling forcefields
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2022 
-\series bold
-Mark Chong 
-\series default
-(Honours, University of Queensland)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Project: Risk bounds for mixture density estimation on compact sets via
- Bregman divergences
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
 2021–2022 
 \series bold
 Nicholas Williams 
@@ -1384,6 +1347,26 @@ Co-supervised with Dr Ramiro Lafuente, University of Queensland
 \begin_layout Standard
 Project: Links between maximum likelihood estimation and geometric invariant
  theory
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019–2022 
+\series bold
+Cong Duc Phan 
+\series default
+(MRes, La Trobe University)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Dr Long Truong, La Trobe University
+\end_layout
+
+\begin_layout Standard
+Project: Exploring the Network-wide Road Safety Impacts of Public Transport
+ Usage and Congestion Levels
 \end_layout
 
 \end_deeper
@@ -1428,6 +1411,43 @@ Project: Statistical learning for time-to-relapse of colorectal cancer patients
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2022– 
+\series bold
+Callum Macfarlane 
+\series default
+(Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Em Prof Alan Mark and Dr Martin Stroet, University of
+ Queensland
+\end_layout
+
+\begin_layout Standard
+Project: Optimisation methods of refined point charge fitting for molecular
+ modelling forcefields
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022– 
+\series bold
+Mark Chiu Chong 
+\series default
+(Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Risk bounds for mixture density estimation on compact sets via
+ Bregman divergences
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2019– 
 \series bold
 Fazel Almasi 
@@ -1443,25 +1463,6 @@ Co-supervised with Profs Michael Stear, Aniruddha Desai, and Drs Markandeya
 
 \begin_layout Standard
 Project: Parasitological and behavioral study of lambs using sensor technology
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2019– 
-\series bold
-Cong Duc Phan 
-\series default
-(MRes, La Trobe University)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Co-supervised with Dr Long Truong, La Trobe University
-\end_layout
-
-\begin_layout Standard
-Project: Exploring the road safety impacts of transport demand management
 \end_layout
 
 \end_deeper
