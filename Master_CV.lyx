@@ -188,7 +188,16 @@ La Trobe University, Melbourne, Australia
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 Project: Feasible algorithms for big inference.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -227,12 +236,22 @@ University of Queensland, Brisbane, Australia
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 Supervisors: Dr Andrew Janke and Prof Geoffrey McLachlan
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Project: Mixture modelling for multimodal medical imaging data
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -269,12 +288,22 @@ Diamantina Institute, University of Queensland, Brisbane, Australia
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 Supervisor: Dr Michelle Hills
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Project: Bioinformatics for clinical proteomics
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -290,6 +319,12 @@ Research Assistant
 Commonwealth Scientific and Industrial Research Organisation, Australia
 \end_layout
 
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Supervisors: Dr Andrew George and Dr Emma Huang
@@ -300,7 +335,11 @@ Supervisors: Dr Andrew George and Dr Emma Huang
 Project: Genome-wide association study of wheat crop traits
 \end_layout
 
-\end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2008 
@@ -313,6 +352,12 @@ Vacation Research Scholar
 Commonwealth Scientific and Industrial Research Organisation, Australia
 \end_layout
 
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Supervisors: Dr Andrew George and Dr Emma Huang
@@ -323,7 +368,11 @@ Supervisors: Dr Andrew George and Dr Emma Huang
 Project: Association analysis in sugarcane—on the hunt for sugar genes
 \end_layout
 
-\end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset Separator plain
 \end_inset
@@ -565,7 +614,20 @@ Mathematics for Data Science 1
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2021 
+2022 
+\series bold
+Problems and Applications in Modern Statistics
+\series default
+ (STAT3500, University of Queensland; Undergraduate)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021,
+\begin_inset space ~
+\end_inset
+
+2022 
 \series bold
 Statistical Learning
 \series default
@@ -899,6 +961,32 @@ options "plainyrrev"
 Grants and Research Funding
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023–2025 
+\series bold
+Discovery Project
+\series default
+ (360,000 AUD; DP230100905)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigators: Dr Xin Guo (University of Queensland), Dr Florence Forbes
+ (Inria Rhone-Alpes), and A Prof Gersende Fort (CNRS)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Stochastic majorization–minimization algorithms for data science
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2021–2023 
@@ -1389,10 +1477,6 @@ Project: Learning and approximation theory of mixture models and mixture
  of experts
 \end_layout
 
-\begin_layout Standard
-Currently: Postdoctoral researcher at Statify Lab, Inria Grenoble Rhone–Alpes
-\end_layout
-
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
@@ -1411,7 +1495,7 @@ Project: Statistical learning for time-to-relapse of colorectal cancer patients
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022– 
+2022 
 \series bold
 Callum Macfarlane 
 \series default
