@@ -1,70 +1,96 @@
-% Encoding: UTF-8
+%% This BibTeX bibliography file was created using BibDesk.
+%% https://bibdesk.sourceforge.io/
 
-@Article{Gao2022Refining-the-es,
-  author        = {J Gao and D A Burgard and B J Tscharke and F Y Lai and J W {O'Brien} and H D Nguyen and Q Zheng and J Li and P Du and X Li and D Wang and S Castiglioni and C {Cruz-Cruz} and J A {Baz-Lomba} and V Yargeau and E Emke and K V Thomas and J F Mueller and P K Thai},
-  journal       = {Water Research},
-  title         = {{Refining the estimation of amphetamine consumption by wastewater-based epidemiology}},
-  year          = {2022},
-  pages         = {119182},
-  volume        = {225},
-  date-added    = {2022-09-28 16:31:16 +1000},
-  date-modified = {2022-09-28 16:34:39 +1000},
-}
+%% Created for Hien Duy Nguyen - 232948 at 2023-06-18 21:30:48 +1000 
 
-@Article{Nguyen2023a,
-  author        = {H D Nguyen and D Fryer and G J McLachlan},
-  journal       = {Journal of the Korean Statistical Society},
-  title         = {{Order selection with confidence for finite mixture models}},
-  year          = {2023},
-  pages         = {154-184},
-  volume        = {52},
-  date-added    = {2022-09-28 16:29:54 +1000},
-  date-modified = {2022-09-28 16:30:42 +1000},
-}
 
-@Article{Urchs:2020ab,
-  author        = {S Urchs and A Tam and P Orban and C Moreau and Y Benhajali and H D Nguyen and A C Evans and P Bellec},
-  journal       = {{eLife}},
-  title         = {{Subtypes of functional connectivity associate robustly with ASD diagnosis}},
-  year          = {2022},
-  pages         = {e56257},
-  volume        = {11},
-  date-added    = {2022-09-17 11:14:30 +1000},
-  date-modified = {2022-09-17 11:15:06 +1000},
-}
+%% Saved with string encoding Unicode (UTF-8) 
 
-@Article{Forbes:2021um,
-  author        = {F Forbes and H D Nguyen and T T Nguyen and J Arbel},
-  journal       = {Statistics and Computing},
-  title         = {{Approximate Bayesian computation with surrogate posteriors}},
-  year          = {2022},
-  pages         = {85},
-  volume        = {32},
-  date-added    = {2022-09-17 11:13:42 +1000},
-  date-modified = {2022-09-17 11:14:02 +1000},
-}
 
-@Article{Nguyen:2021wz,
-  author        = {T T Nguyen and H D Nguyen and F Chamroukhi and F Forbes},
-  journal       = {Electronic Journal of Statistics},
-  title         = {{A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts}},
-  year          = {2022},
-  pages         = {4742-4822},
-  volume        = {16},
-  date-added    = {2022-09-17 11:12:45 +1000},
-  date-modified = {2022-09-17 11:13:28 +1000},
-}
+@comment{jabref-meta: databaseType:bibtex;}
 
-@Article{Phan:2021tm,
-  author        = {D C Phan and L T Truong and H D Nguyen and R Tay},
-  journal       = {Journal of Advanced Transportation},
-  title         = {{Modelling the safety effects of train commuters' access modes}},
-  year          = {2022},
-  pages         = {3473397},
-  volume        = {2022},
-  date-added    = {2022-01-19 14:59:14 +1000},
-  date-modified = {2022-01-19 15:01:13 +1000},
-}
+
+
+@article{Wallis:2023aa,
+	author = {T P Wallis and A Jiang and K Young and H Hou and K Kudo and A J {McCann} and N Durisic and M Joensuu and D Oelz and H Nguyen and R S Gormal and F A Meunier},
+	date-added = {2023-06-18 21:28:24 +1000},
+	date-modified = {2023-06-18 21:30:06 +1000},
+	journal = {Nature Cummunications},
+	pages = {3353},
+	title = {{Super-resolved trajectory-derived nanoclustering analysis using spatiotemporal indexing}},
+	volume = {14},
+	year = {2023}}
+
+@article{Almasi2023,
+	author = {F Almasi and M Stear and M Khansefid and H Nguyen and A Desai and J E Pryce},
+	creationdate = {2023-02-01T17:42:31},
+	date-added = {2023-06-18 21:24:54 +1000},
+	date-modified = {2023-06-18 21:25:40 +1000},
+	journal = {Frontiers in Animal Science},
+	owner = {uqhngu10},
+	title = {{The repeatability and heritability of traits derived from accelerometer sensors associated with grazing and rumination time in an extensive sheep farming system}},
+	volume = {to appear},
+	year = {2023}}
+
+@article{Gao2022Refining-the-es,
+	author = {J Gao and D A Burgard and B J Tscharke and F Y Lai and J W {O'Brien} and H D Nguyen and Q Zheng and J Li and P Du and X Li and D Wang and S Castiglioni and C {Cruz-Cruz} and J A {Baz-Lomba} and V Yargeau and E Emke and K V Thomas and J F Mueller and P K Thai},
+	date-added = {2022-09-28 16:31:16 +1000},
+	date-modified = {2022-09-28 16:34:39 +1000},
+	journal = {Water Research},
+	pages = {119182},
+	title = {{Refining the estimation of amphetamine consumption by wastewater-based epidemiology}},
+	volume = {225},
+	year = {2022}}
+
+@article{Nguyen2023a,
+	author = {H D Nguyen and D Fryer and G J McLachlan},
+	date-added = {2022-09-28 16:29:54 +1000},
+	date-modified = {2022-09-28 16:30:42 +1000},
+	journal = {Journal of the Korean Statistical Society},
+	pages = {154-184},
+	title = {{Order selection with confidence for finite mixture models}},
+	volume = {52},
+	year = {2023}}
+
+@article{Urchs:2020ab,
+	author = {S Urchs and A Tam and P Orban and C Moreau and Y Benhajali and H D Nguyen and A C Evans and P Bellec},
+	date-added = {2022-09-17 11:14:30 +1000},
+	date-modified = {2022-09-17 11:15:06 +1000},
+	journal = {{eLife}},
+	pages = {e56257},
+	title = {{Subtypes of functional connectivity associate robustly with ASD diagnosis}},
+	volume = {11},
+	year = {2022}}
+
+@article{Forbes:2021um,
+	author = {F Forbes and H D Nguyen and T T Nguyen and J Arbel},
+	date-added = {2022-09-17 11:13:42 +1000},
+	date-modified = {2022-09-17 11:14:02 +1000},
+	journal = {Statistics and Computing},
+	pages = {85},
+	title = {{Approximate Bayesian computation with surrogate posteriors}},
+	volume = {32},
+	year = {2022}}
+
+@article{Nguyen:2021wz,
+	author = {T T Nguyen and H D Nguyen and F Chamroukhi and F Forbes},
+	date-added = {2022-09-17 11:12:45 +1000},
+	date-modified = {2022-09-17 11:13:28 +1000},
+	journal = {Electronic Journal of Statistics},
+	pages = {4742-4822},
+	title = {{A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts}},
+	volume = {16},
+	year = {2022}}
+
+@article{Phan:2021tm,
+	author = {D C Phan and L T Truong and H D Nguyen and R Tay},
+	date-added = {2022-01-19 14:59:14 +1000},
+	date-modified = {2022-01-19 15:01:13 +1000},
+	journal = {Journal of Advanced Transportation},
+	pages = {3473397},
+	title = {{Modelling the safety effects of train commuters' access modes}},
+	volume = {2022},
+	year = {2022}}
 
 @article{Nguyen2022,
 	author = {H D Nguyen and F Forbes},
@@ -76,15 +102,15 @@
 	volume = {64},
 	year = {2022}}
 
-@Article{Nguyen2022a,
-  author        = {T T Nguyen and F Chamroukhi and H D Nguyen and G J McLachlan},
-  journal       = {Communications in Statistics - Theory and Methods},
-  title         = {{Approximation of probability density functions via location-scale finite mixtures in Lesbegue spaces}},
-  year          = {2022},
-  volume        = {to appear},
-  date-added    = {2021-11-05 19:47:18 +1000},
-  date-modified = {2021-11-05 19:47:53 +1000},
-}
+@article{Nguyen:2023aa,
+	author = {T T Nguyen and F Chamroukhi and H D Nguyen and G J McLachlan},
+	date-added = {2021-11-05 19:47:18 +1000},
+	date-modified = {2023-06-18 21:23:43 +1000},
+	journal = {Communications in Statistics - Theory and Methods},
+	pages = {5048-5059},
+	title = {{Approximation of probability density functions via location-scale finite mixtures in Lesbegue spaces}},
+	volume = {52},
+	year = {2023}}
 
 @article{Fryer:2021ux,
 	author = {D Fryer and I Str\"{u}mke and H Nguyen},
@@ -588,77 +614,69 @@
 	volume = {11},
 	year = {2018}}
 
-@Article{Durand2022,
-  author       = {J-B Durand and F Forbes and C D Phan and L Truong and H D Nguyen and F Dama},
-  journal      = {Australian and New Zealand Journal of Statistics},
-  title        = {{Bayesian nonparametric spatial prior for traffic crash risk mapping: a case study of Victoria, Australia}},
-  year         = {2022},
-  pages        = {171-204},
-  volume       = {64},
-  creationdate = {2022-04-26T13:22:54},
-  owner        = {uqhngu10},
-}
+@article{Durand2022,
+	author = {J-B Durand and F Forbes and C D Phan and L Truong and H D Nguyen and F Dama},
+	creationdate = {2022-04-26T13:22:54},
+	journal = {Australian and New Zealand Journal of Statistics},
+	owner = {uqhngu10},
+	pages = {171-204},
+	title = {{Bayesian nonparametric spatial prior for traffic crash risk mapping: a case study of Victoria, Australia}},
+	volume = {64},
+	year = {2022}}
 
-@Article{Almasi,
-  author       = {F Almasi and H Nguyen and D Heydarian and R Sohi and S Nikbin and C J Jenvey and E Halliwell and E N Ponnampalam and A Desai and M Jois and M J Stear},
-  journal      = {Animal Production Science},
-  title        = {{Quantification of behavioural variation among sheep grazing on pasture using accelerometer sensors}},
-  year         = {2022},
-  pages        = {1527-1538},
-  volume       = {62},
-  creationdate = {2022-05-05T15:00:19},
-  owner        = {uqhngu10},
-}
+@article{Almasi,
+	author = {F Almasi and H Nguyen and D Heydarian and R Sohi and S Nikbin and C J Jenvey and E Halliwell and E N Ponnampalam and A Desai and M Jois and M J Stear},
+	creationdate = {2022-05-05T15:00:19},
+	journal = {Animal Production Science},
+	owner = {uqhngu10},
+	pages = {1527-1538},
+	title = {{Quantification of behavioural variation among sheep grazing on pasture using accelerometer sensors}},
+	volume = {62},
+	year = {2022}}
 
-@Article{Sohi2022,
-  author        = {R Sohi and A Carroll and H Nguyen and Z Almasi and J Miller and J Trompf and A Bervan and B I Godoy and M Stear and A Desai and M Jois},
-  journal       = {Animal Production Science},
-  title         = {{Determination of ewe behaviour around lambing time and prediction of parturition seven days prior to lambing by tri-axial accelerometer sensors in an extensive farming system}},
-  year          = {2022},
-  pages         = {1729-1738},
-  volume        = {62},
-  creationdate  = {2022-06-28T16:06:38},
-  date-added    = {2020-08-11 11:42:24 +1000},
-  date-modified = {2020-08-11 11:45:15 +1000},
-  owner         = {uqhngu10},
-}
+@article{Sohi2022,
+	author = {R Sohi and A Carroll and H Nguyen and Z Almasi and J Miller and J Trompf and A Bervan and B I Godoy and M Stear and A Desai and M Jois},
+	creationdate = {2022-06-28T16:06:38},
+	date-added = {2020-08-11 11:42:24 +1000},
+	date-modified = {2020-08-11 11:45:15 +1000},
+	journal = {Animal Production Science},
+	owner = {uqhngu10},
+	pages = {1729-1738},
+	title = {{Determination of ewe behaviour around lambing time and prediction of parturition seven days prior to lambing by tri-axial accelerometer sensors in an extensive farming system}},
+	volume = {62},
+	year = {2022}}
 
-@Article{Navarathna2022Passive-superco,
-  author        = {R Navarathna and D T Le and A R Hamann and H D Nguyen and T M Stace and A Fedorov},
-  journal       = {Physical Review Letters},
-  title         = {{Passive superconducting circulator on a chip}},
-  year          = {2023},
-  pages         = {037001},
-  volume        = {130},
-  creationdate  = {2023-02-01T17:37:28},
-  date-added    = {2022-09-17 11:22:13 +1000},
-  date-modified = {2022-09-17 11:23:24 +1000},
-  owner         = {uqhngu10},
-}
+@article{Navarathna2022Passive-superco,
+	author = {R Navarathna and D T Le and A R Hamann and H D Nguyen and T M Stace and A Fedorov},
+	creationdate = {2023-02-01T17:37:28},
+	date-added = {2022-09-17 11:22:13 +1000},
+	date-modified = {2022-09-17 11:23:24 +1000},
+	journal = {Physical Review Letters},
+	owner = {uqhngu10},
+	pages = {037001},
+	title = {{Passive superconducting circulator on a chip}},
+	volume = {130},
+	year = {2023}}
 
-@Article{Arbel2021Multiple-expect,
-  author        = {J Arbel and S Girard and H D Nguyen and A {Usseglio-Carleve}},
-  journal       = {Journal of Statistical Planning and Inference},
-  title         = {{Multiple expectile-based distribution: properties, Bayesian inference and applications}},
-  year          = {2023},
-  pages         = {146-170},
-  volume        = {225},
-  creationdate  = {2023-02-01T17:38:45},
-  date-added    = {2021-11-05 19:51:09 +1000},
-  date-modified = {2021-11-05 19:51:53 +1000},
-  owner         = {uqhngu10},
-}
+@article{Arbel2021Multiple-expect,
+	author = {J Arbel and S Girard and H D Nguyen and A {Usseglio-Carleve}},
+	creationdate = {2023-02-01T17:38:45},
+	date-added = {2021-11-05 19:51:09 +1000},
+	date-modified = {2021-11-05 19:51:53 +1000},
+	journal = {Journal of Statistical Planning and Inference},
+	owner = {uqhngu10},
+	pages = {146-170},
+	title = {{Multiple expectile-based distribution: properties, Bayesian inference and applications}},
+	volume = {225},
+	year = {2023}}
 
-@Article{Nguyen2023,
-  author        = {H D Nguyen and M Gupta},
-  journal       = {Scandinavian Journal of Statistics},
-  title         = {{Finite sample inference for empirical Bayesian methods}},
-  year          = {2023},
-  volume        = {to appear},
-  creationdate  = {2023-03-14T13:43:31},
-  date-added    = {2021-11-05 19:48:30 +1000},
-  date-modified = {2021-11-05 19:50:27 +1000},
-  owner         = {uqhngu10},
-}
-
-@Comment{jabref-meta: databaseType:bibtex;}
+@article{Nguyen2023,
+	author = {H D Nguyen and M Gupta},
+	creationdate = {2023-03-14T13:43:31},
+	date-added = {2021-11-05 19:48:30 +1000},
+	date-modified = {2021-11-05 19:50:27 +1000},
+	journal = {Scandinavian Journal of Statistics},
+	owner = {uqhngu10},
+	title = {{Finite sample inference for empirical Bayesian methods}},
+	volume = {to appear},
+	year = {2023}}

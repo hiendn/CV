@@ -121,7 +121,7 @@ School of Mathematics and Physics, University of Queensland, St.
 \end_layout
 
 \begin_layout Email
-h.nguyen7@uq.edu.au
+h.nguyen7@uq.edu.au h.nguyen5@latrobe.edu.au
 \end_layout
 
 \begin_layout Telephone
@@ -138,7 +138,41 @@ Academic and Research Employment
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2021– 
+2023–
+\series bold
+ Professor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Institute of Mathematics for Industry 
+\end_layout
+
+\begin_layout Standard
+Kyushu University, Fukuoka, Japan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023– 
+\series bold
+Associate Professor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematical and Physical Sciences
+\end_layout
+
+\begin_layout Standard
+La Trobe University, Melbourne, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021–2023 
 \series bold
 Senior Lecturer
 \end_layout
@@ -386,7 +420,7 @@ Honorary, Adjunct, and Service Appointments
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2021– 
+2021–2023 
 \series bold
 Adjunct Senior Lecturer
 \end_layout
@@ -435,7 +469,7 @@ Statify (previously Mistis) Team
 \end_layout
 
 \begin_layout Standard
-Inria Grenoble Rhone-Alpes, France
+Inria Centre at the University Grenoble Alpes, France
 \end_layout
 
 \end_deeper
@@ -605,7 +639,11 @@ Teaching
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022 
+2022,
+\begin_inset space ~
+\end_inset
+
+2023 
 \series bold
 Mathematics for Data Science 1
 \series default
@@ -614,7 +652,11 @@ Mathematics for Data Science 1
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022 
+2022,
+\begin_inset space ~
+\end_inset
+
+2023 
 \series bold
 Problems and Applications in Modern Statistics
 \series default
@@ -623,11 +665,7 @@ Problems and Applications in Modern Statistics
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2021,
-\begin_inset space ~
-\end_inset
-
-2022 
+2021–2023 
 \series bold
 Statistical Learning
 \series default
@@ -963,6 +1001,29 @@ Grants and Research Funding
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2023–2026 
+\series bold
+Inria Associate Teams 
+\series default
+(48,000 EURO)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigator: Dr Florence Forbes (Inria Centre at the University Grenoble
+ Alpes)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project: Variance-reduced Optimization Methods and Bayesian Approximation
+ Techniques for scalable inference (WOMBAT)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2023–2025 
 \series bold
 Discovery Project
@@ -978,7 +1039,8 @@ Australian Research Council
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Co-investigators: Dr Xin Guo (University of Queensland), Dr Florence Forbes
- (Inria Rhone-Alpes), and A Prof Gersende Fort (CNRS)
+ (Inria Centre at the University Grenoble Alpes), and A Prof Gersende Fort
+ (CNRS)
 \end_layout
 
 \begin_layout Labeling
@@ -1021,7 +1083,8 @@ Inria Associate Teams
 \begin_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Co-investigator: Dr Florence Forbes (Inria Rhone-Alpes)
+Co-investigator: Dr Florence Forbes (Inria Centre at the University Grenoble
+ Alpes)
 \end_layout
 
 \begin_layout Labeling
@@ -1114,7 +1177,8 @@ Ministry of Europe and Foreign Affairs, and Ministry of Higher Education,
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Co-awardee: Dr Florence Forbes (Inria Rhone-Alpes)
+Co-awardee: Dr Florence Forbes (Inria Centre at the University Grenoble
+ Alpes)
 \end_layout
 
 \begin_layout Labeling
@@ -1415,9 +1479,103 @@ School of Mathematics and Physics, University of Queensland
 \end_layout
 
 \begin_layout Section
+Post-Doctoral Supervision
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021— 
+\series bold
+Trung Tin Nguyen 
+\series default
+(Inria Centre at the University Grenoble Alpes)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Dr Florence Forbes, Inria Centre at the University Grenoble
+ Alpes
+\end_layout
+
+\begin_layout Standard
+Project: Non-asymptotic methods for Bayesian computation
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Student Supervision
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023— 
+\series bold
+Samad Roohi 
+\series default
+(PhD, La Trobe University)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Natural language models for affective conversation systems
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023 
+\series bold
+Jacob Westerhout 
+\series default
+(Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Asymptotic distributions of optimal values arising from sample
+ averaging processes
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023 
+\series bold
+Qingyuan Zhang 
+\series default
+(Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Determination of optimal constraints for regularization problems
+ in the Ivanov form
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022–2023 
+\series bold
+Mark Chiu Chong 
+\series default
+(Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Risk bounds for mixture density estimation on compact sets via
+ Bregman divergences
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2021–2022 
@@ -1516,22 +1674,6 @@ Project: Optimisation methods of refined point charge fitting for molecular
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022– 
-\series bold
-Mark Chiu Chong 
-\series default
-(Honours, University of Queensland)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Project: Risk bounds for mixture density estimation on compact sets via
- Bregman divergences
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
 2019– 
 \series bold
 Fazel Almasi 
@@ -1621,9 +1763,28 @@ Conference Presentations
 
  
 \bar under
-Oral Presentations
+Talks
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023 
+\series bold
+Convergence of Bayesian posterior statistics and related quantities
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: Sequential Monte Carlo Down Under
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Brisbane, Australia
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2022 
@@ -2023,7 +2184,7 @@ Location: Brisbane, Australia
 
  
 \bar under
-Poster Presentations
+Posters
 \end_layout
 
 \begin_layout Labeling
@@ -2282,7 +2443,7 @@ Minibatch and incremental learning of exponential family mixtures, and the
 \begin_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Location: Inria Grenoble Rhone-Alpes, France
+Location: Inria Centre at the University Grenoble Alpes, France
 \end_layout
 
 \end_deeper
@@ -2393,7 +2554,7 @@ False discovery rate control under rounding of p-values
 \begin_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-Location: Inria Grenoble Rhone-Alpes, France
+Location: Inria Centre at the University Grenoble Alpes, France
 \end_layout
 
 \end_deeper
@@ -2554,7 +2715,38 @@ Professional Service
 \labelwidthstring 00.00.0000
 2022– 
 \series bold
-Student Misconduct Committee Member
+Chair of Engagement, Advancement and Internationalization
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: University of Queensland, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022– 
+\series bold
+UQ School of Mathematics and Physics Representative
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Institution: Australian Data Science Network
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022– 
+\series bold
+Faculty and School Student Misconduct Committee Member
 \end_layout
 
 \begin_deeper
@@ -2578,6 +2770,24 @@ Faculty EMCA Reference Group Representative and School EMCA Committee Member
 \begin_deeper
 \begin_layout Standard
 School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: University of Queensland, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022– 
+\series bold
+Mentoring Chair
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Research Committee, School of Mathematics and Physics
 \end_layout
 
 \begin_layout Labeling
@@ -2640,42 +2850,43 @@ Institution: La Trobe University, Australia
 \end_layout
 
 \end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
 2018–2021 
 \series bold
 PhD Confirmations Committee Chair
 \end_layout
 
-\begin_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 Department of Mathematics and Statistics
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 Institution: La Trobe University, Australia
 \end_layout
 
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 2017–2021 
 \series bold
 Masters Theses Committee Member
 \end_layout
 
-\begin_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 Department of Mathematics and Statistics
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Plain Layout
 Institution: La Trobe University, Australia
 \end_layout
 
-\end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2017,
@@ -2698,6 +2909,10 @@ Institution: La Trobe University, Australia
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2016 
@@ -2706,7 +2921,7 @@ PhD Confirmation Committee Member
 \end_layout
 
 \begin_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 School of Mathematics and Physics
 \end_layout
 
@@ -2716,10 +2931,6 @@ Institution: University of Queensland, Australia
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-\begin_inset Note Comment
-status open
-
 \begin_layout Plain Layout
 2015 
 \series bold
@@ -2960,6 +3171,20 @@ Conference Commitments
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2023 
+\series bold
+Organization Committee Member (Chair of Sponsorships)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+67th Annual Meeting of the Australian Mathematical Society (AustMS 2023),
+ Brisbane Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2020 
 \series bold
 Program Committee Member
@@ -3085,12 +3310,14 @@ Professional Memberships
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2020–2021 Statistical Society of Australia (Victoria Branch, Council Member)
+2022– Australian Mathematical Society (Fellowship Committee Member 2022–)
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2019 Statistical Society of Australia (Victoria Branch, Guest Council Member)
+2019– Statistical Society of Australia (Victoria Branch, Guest Council Member
+ 2019; Victoria Branch, Council Member 2020–2021; Queensland Branch, President
+ 2023–)
 \end_layout
 
 \begin_layout Labeling
