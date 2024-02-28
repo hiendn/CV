@@ -124,10 +124,6 @@ School of Computing, Engineering and Mathematical Sciences, La Trobe University,
 h.nguyen5@latrobe.edu.au
 \end_layout
 
-\begin_layout Email
-h.nguyen7@uq.edu.au
-\end_layout
-
 \begin_layout Telephone
 +61 434 253 952
 \end_layout
@@ -1519,6 +1515,41 @@ Student Supervision
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2024– 
+\series bold
+Jacob Westerhout 
+\series default
+(PhD, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Weak convergence of empirical processes and the delta method
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019–2024 
+\series bold
+Daniel Fryer 
+\series default
+(PhD, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Prof Geoffrey McLachlan and Dr Ian Wood, University of
+ Queensland
+\end_layout
+
+\begin_layout Standard
+Project: Interpretable methods in AI and statistics
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2023— 
 \series bold
 Samad Roohi 
@@ -1696,26 +1727,6 @@ Project: Parasitological and behavioral study of lambs using sensor technology
 \end_layout
 
 \end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2019– 
-\series bold
-Daniel Fryer 
-\series default
-(PhD, University of Queensland)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Co-supervised with Prof Geoffrey McLachlan and Dr Ian Wood, University of
- Queensland
-\end_layout
-
-\begin_layout Standard
-Project: Interpretable methods in AI and statistics
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 \begin_inset Note Comment
 status open
@@ -1770,6 +1781,45 @@ Conference Presentations
 Talks
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023 
+\series bold
+PanIC: an information criterion approach for generic model selection problems
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: Australian Statistical Conference
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Wollongong, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023 
+\series bold
+A non-asymptotic risk bound for model selection in a high-dimensional mixture
+ of experts via joint rank and variable selection
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: Australasian Joint Conference for Artificial Intelligence
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Brisbane, Australia
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2023 
@@ -2214,6 +2264,25 @@ Location: Gold Coast, Australia
 Invited Presentations and Workshops
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023 
+\series bold
+PanIC at the Boathouse
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference: ANU RSFAS Summer Research Camp
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Canberra, Australia
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2022 
@@ -2717,7 +2786,7 @@ Professional Service
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022– 
+2022–2023 
 \series bold
 Chair of Engagement, Advancement and Internationalization
 \end_layout
@@ -2735,7 +2804,7 @@ Institution: University of Queensland, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022– 
+2022–2023 
 \series bold
 UQ School of Mathematics and Physics Representative
 \end_layout
@@ -2748,7 +2817,7 @@ Institution: Australian Data Science Network
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022– 
+2022–2023 
 \series bold
 Faculty and School Student Misconduct Committee Member
 \end_layout
@@ -2766,7 +2835,7 @@ Institution: University of Queensland, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022– 
+2022–2023 
 \series bold
 Faculty EMCA Reference Group Representative and School EMCA Committee Member
 \end_layout
@@ -2784,7 +2853,7 @@ Institution: University of Queensland, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2022– 
+2022–2023 
 \series bold
 Mentoring Chair
 \end_layout
@@ -2802,7 +2871,7 @@ Institution: University of Queensland, Australia
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2021– 
+2021–2023 
 \series bold
 Statistics, Modelling and Operations Research Seminar Administrator
 \end_layout
@@ -3124,6 +3193,19 @@ Editorial Positions
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2023– 
+\series bold
+Book Review Editor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian and New Zealand Journal of Statistics (Wiley)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2021– 
 \series bold
 Associate Editor (Statistics)
@@ -3137,7 +3219,7 @@ Frontiers in Applied Mathematics and Statistics (Frontiers)
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2019– 
+2019–2023 
 \series bold
 Associate and Handling Editor (Statistical Computing)
 \end_layout

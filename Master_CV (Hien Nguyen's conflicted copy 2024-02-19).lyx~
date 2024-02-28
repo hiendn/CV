@@ -124,6 +124,10 @@ School of Computing, Engineering and Mathematical Sciences, La Trobe University,
 h.nguyen5@latrobe.edu.au
 \end_layout
 
+\begin_layout Email
+h.nguyen7@uq.edu.au
+\end_layout
+
 \begin_layout Telephone
 +61 434 253 952
 \end_layout
@@ -1515,41 +1519,6 @@ Student Supervision
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2024– 
-\series bold
-Jacob Westerhout 
-\series default
-(PhD, University of Queensland)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Project: Weak convergence of empirical processes and the delta method
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2019–2024 
-\series bold
-Daniel Fryer 
-\series default
-(PhD, University of Queensland)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Co-supervised with Prof Geoffrey McLachlan and Dr Ian Wood, University of
- Queensland
-\end_layout
-
-\begin_layout Standard
-Project: Interpretable methods in AI and statistics
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
 2023— 
 \series bold
 Samad Roohi 
@@ -1727,6 +1696,26 @@ Project: Parasitological and behavioral study of lambs using sensor technology
 \end_layout
 
 \end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019– 
+\series bold
+Daniel Fryer 
+\series default
+(PhD, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Prof Geoffrey McLachlan and Dr Ian Wood, University of
+ Queensland
+\end_layout
+
+\begin_layout Standard
+Project: Interpretable methods in AI and statistics
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset Note Comment
 status open
@@ -1781,45 +1770,6 @@ Conference Presentations
 Talks
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2023 
-\series bold
-PanIC: an information criterion approach for generic model selection problems
-\end_layout
-
-\begin_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Conference: Australian Statistical Conference
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Location: Wollongong, Australia
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2023 
-\series bold
-A non-asymptotic risk bound for model selection in a high-dimensional mixture
- of experts via joint rank and variable selection
-\end_layout
-
-\begin_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Conference: Australasian Joint Conference for Artificial Intelligence
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Location: Brisbane, Australia
-\end_layout
-
-\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2023 
@@ -2264,25 +2214,6 @@ Location: Gold Coast, Australia
 Invited Presentations and Workshops
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2023 
-\series bold
-PanIC at the Boathouse
-\end_layout
-
-\begin_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Conference: ANU RSFAS Summer Research Camp
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-Location: Canberra, Australia
-\end_layout
-
-\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2022 
