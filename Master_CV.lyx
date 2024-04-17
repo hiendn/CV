@@ -420,6 +420,23 @@ Honorary, Adjunct, and Service Appointments
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2023– 
+\series bold
+Honorary Associate Professor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Standard
+University of Queensland, Brisbane, Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2021–2023 
 \series bold
 Adjunct Senior Lecturer
@@ -792,7 +809,7 @@ Engineering probability and statistics
 
  
 \bar under
-Predoctoral Positions
+Predoctoral Teaching
 \end_layout
 
 \begin_layout Labeling
@@ -1484,11 +1501,26 @@ Post-Doctoral Supervision
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2021— 
+2023– 
 \series bold
 Trung Tin Nguyen 
 \series default
-(Inria Centre at the University Grenoble Alpes)
+(University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Dr Xin Guo, University of Queensland
+\end_layout
+
+\begin_layout Standard
+Project: Stochastic optimization algorithms for mixtures of experts
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021–2023 (Inria Centre at the University of Grenoble Alpes)
 \end_layout
 
 \begin_deeper
@@ -1517,6 +1549,25 @@ Student Supervision
 \labelwidthstring 00.00.0000
 2024– 
 \series bold
+Jiading Liu 
+\series default
+(PhD, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Dr Xin Guo, University of Queensland
+\end_layout
+
+\begin_layout Standard
+Project: Kernel learning methods
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024– 
+\series bold
 Jacob Westerhout 
 \series default
 (PhD, University of Queensland)
@@ -1524,7 +1575,23 @@ Jacob Westerhout
 
 \begin_deeper
 \begin_layout Standard
+Co-supervised with Dr Xin Guo, University of Queensland
+\end_layout
+
+\begin_layout Standard
 Project: Weak convergence of empirical processes and the delta method
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023 (Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Project: Asymptotic distributions of optimal values arising from sample
+ averaging processes
 \end_layout
 
 \end_deeper
@@ -1550,6 +1617,26 @@ Project: Interpretable methods in AI and statistics
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2019–2024 
+\series bold
+Fazel Almasi 
+\series default
+(PhD, La Trobe University)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Profs Michael Stear, Jennie Pryce, Aniruddha Desai, and
+ Drs Markandeya Jois and Eric Ponnampalam, La Trobe University
+\end_layout
+
+\begin_layout Standard
+Project: Parasitological and behavioral study of lambs using sensor technology
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2023— 
 \series bold
 Samad Roohi 
@@ -1559,23 +1646,11 @@ Samad Roohi
 
 \begin_deeper
 \begin_layout Standard
-Project: Natural language models for affective conversation systems
+Co-supervised with Dr Richard Skarbez, La Trobe University
 \end_layout
 
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2023 
-\series bold
-Jacob Westerhout 
-\series default
-(Honours, University of Queensland)
-\end_layout
-
-\begin_deeper
 \begin_layout Standard
-Project: Asymptotic distributions of optimal values arising from sample
- averaging processes
+Project: Natural language models for affective conversation systems
 \end_layout
 
 \end_deeper
@@ -1608,6 +1683,27 @@ Mark Chiu Chong
 \begin_layout Standard
 Project: Risk bounds for mixture density estimation on compact sets via
  Bregman divergences
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022 
+\series bold
+Callum Macfarlane 
+\series default
+(Honours, University of Queensland)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Co-supervised with Em Prof Alan Mark and Dr Martin Stroet, University of
+ Queensland
+\end_layout
+
+\begin_layout Standard
+Project: Optimisation methods of refined point charge fitting for molecular
+ modelling forcefields
 \end_layout
 
 \end_deeper
@@ -1683,47 +1779,6 @@ Nauvoo Perez
 \begin_deeper
 \begin_layout Standard
 Project: Statistical learning for time-to-relapse of colorectal cancer patients
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2022 
-\series bold
-Callum Macfarlane 
-\series default
-(Honours, University of Queensland)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Co-supervised with Em Prof Alan Mark and Dr Martin Stroet, University of
- Queensland
-\end_layout
-
-\begin_layout Standard
-Project: Optimisation methods of refined point charge fitting for molecular
- modelling forcefields
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2019– 
-\series bold
-Fazel Almasi 
-\series default
-(PhD, La Trobe University)
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Co-supervised with Profs Michael Stear, Aniruddha Desai, and Drs Markandeya
- Jois and Eric Ponnampalam, La Trobe University
-\end_layout
-
-\begin_layout Standard
-Project: Parasitological and behavioral study of lambs using sensor technology
 \end_layout
 
 \end_deeper
@@ -2266,6 +2321,39 @@ Invited Presentations and Workshops
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2024 
+\series bold
+The limits of some Bayesian model evaluation statistics
+\series default
+ (Kyushu University, Statistical Science Seminar)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Kyushu University, Japan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024 
+\series bold
+MM Algorithms for Optimization of Statistical Models
+\series default
+ (4-day Intensive Course for the Joint Graduate School of Mathematics for
+ Innovation)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location: Kyushu University, Japan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2023 
 \series bold
 PanIC at the Boathouse
@@ -2786,6 +2874,42 @@ Professional Service
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2024– 
+\series bold
+Member of the Graduate Program of Mathematics for Innovation
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Joint Graduate School of Mathematics for Innovation
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: Kyushu University, Japan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024– 
+\series bold
+La Trobe–Kyushu Joint Seminar Administrator
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Institute of Mathematics for Industry
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution: Kyushu University, Japsan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2022–2023 
 \series bold
 Chair of Engagement, Advancement and Internationalization
@@ -3099,83 +3223,22 @@ Grant Assessor
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2020– 
-\series bold
-Future Fellowships
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Australian Research Council, Australia
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2020 
-\series bold
-Laureate Fellowships
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Australian Research Council, Australia
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2018,
-\begin_inset space ~
-\end_inset
-
-2019 
-\series bold
-Linkage Projects
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Australian Research Council, Australia
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
 2018 
 \series bold
-Internal Research Funds
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
 Free University of Bozen-Bolzano, Italy
 \end_layout
 
-\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2017– 
 \series bold
-Discovery Projects
+Australian Research Council, Australia
 \end_layout
 
 \begin_deeper
 \begin_layout Standard
-Australian Research Council, Australia
-\end_layout
-
-\end_deeper
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2017– 
-\series bold
-Discovery Early Career Research Awards
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-Australian Research Council, Australia
+Discovery Early Career Research Awards; Discovery Projects; Linkage Projects;
+ Future Fellowships; Laureate Fellowships
 \end_layout
 
 \end_deeper
@@ -3193,6 +3256,19 @@ Editorial Positions
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2024– 
+\series bold
+Associate Editor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Japanese Journal of Statistics and Data Science (Springer)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2023– 
 \series bold
 Book Review Editor
@@ -3206,7 +3282,7 @@ Australian and New Zealand Journal of Statistics (Wiley)
 \end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2021– 
+2019– 
 \series bold
 Associate Editor (Statistics)
 \end_layout
@@ -3221,7 +3297,7 @@ Frontiers in Applied Mathematics and Statistics (Frontiers)
 \labelwidthstring 00.00.0000
 2019–2023 
 \series bold
-Associate and Handling Editor (Statistical Computing)
+Handling Editor (Statistical Computing)
 \end_layout
 
 \begin_deeper
@@ -3401,9 +3477,8 @@ Professional Memberships
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2019– Statistical Society of Australia (Victoria Branch, Guest Council Member
- 2019; Victoria Branch, Council Member 2020–2021; Queensland Branch, President
- 2023–)
+2019– Statistical Society of Australia (Victoria Branch, Council Member
+ 2020–2021; Queensland Branch, President 2023–)
 \end_layout
 
 \begin_layout Labeling
