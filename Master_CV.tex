@@ -1,12 +1,15 @@
-%% LyX 2.3.2 created this file.  For more info, see http://www.lyx.org/.
+%% LyX 2.3.7 created this file.  For more info, see http://www.lyx.org/.
 %% Do not edit unless you really know what you are doing.
-\documentclass[english,nologo]{europasscv}
+\documentclass[english,nologo,nodocument,black]{europasscv}
 \usepackage[T1]{fontenc}
 \setcounter{secnumdepth}{1}
 \setcounter{tocdepth}{1}
+\usepackage{verbatim}
 \usepackage{amstext}
 \usepackage{setspace}
 \usepackage[numbers]{natbib}
+\PassOptionsToPackage{normalem}{ulem}
+\usepackage{ulem}
 \doublespacing
 \usepackage[dot]{bibtopic}
 
@@ -16,12 +19,12 @@
 
 \ecvname{Hien Duy Nguyen}
 
-\ecvaddress{Department of Mathematics and Statistics, La Trobe University, Melbourne
-3086, VIC Australia}
+\ecvaddress{School of Computing, Engineering and Mathematical Sciences, La Trobe
+University, Melbourne, Australia}
 
 \ecvemail{h.nguyen5@latrobe.edu.au}
 
-\ecvtelephone{+61 0 434 253 952}
+\ecvtelephone{+61 434 253 952}
 
 \ecvhomepage{hiendn.github.io}
 
@@ -40,80 +43,132 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
 \usepackage{url}
 
+\usepackage{geometry}
+\geometry{
+ a4paper,
+ left=15mm,
+ top=15mm,
+ right=15mm,
+ bottom=15mm,
+ head=10mm,
+headsep=0mm,
+footskip=0mm
+}
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\newcommand{\helv}{%
+\fontfamily{phv}\fontsize{9}{11}\selectfont}
+\renewcommand{\headrulewidth}{0.0pt}
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{\helv \thepage / \pageref{LastPage}}
+
 \makeatother
 
 \usepackage{babel}
 \begin{document}
 \begin{europasscv}\ecvpersonalinfo
 
-\ecvsection{Academic and Research Positions}
+\ecvsection{Academic and Research Employment}
 \begin{lyxlist}{00.00.0000}
-\item [{2019--}] \textbf{Senior Lecturer}
+\item [{2023--}] \textbf{Professor}
+
+Institute of Mathematics for Industry 
+
+Kyushu University, Fukuoka, Japan
+\item [{2023--}] \textbf{Associate Professor}
+
+Department of Mathematical and Physical Sciences
+
+La Trobe University, Melbourne, Australia
+\item [{2021--2023}] \textbf{Senior Lecturer}
+
+School of Mathematics and Physics
+
+University of Queensland, Brisbane, Australia
+\item [{2019--2021}] \textbf{Senior Lecturer}
 
 Department of Mathematics and Statistics
 
 La Trobe University, Melbourne, Australia
-\item [{2016--}] \textbf{DECRA Ressearch Fellow}
+\item [{2016--2020}] \textbf{DECRA Research Fellow}
 
 Australian Research Council (ARC) grant number: DE170101134.
 
 La Trobe University, Melbourne, Australia
 \begin{lyxlist}{00.00.0000}
-\item [{Project:}] Feasible algorithms for big inference.
+\item [{}]~
 \end{lyxlist}
 \item [{2016--2019}] \textbf{Lecturer}
 
 Department of Mathematics and Statistics
 
 La Trobe University, Melbourne, Australia
-\item [{$\text{2018, 2019}$}] \textbf{Visiting Research Fellow}
-
-Mistis Team
-
-Inria Grenoble Rhone-Alpes, France
-\item [{$\text{2015, 2019}$}] \textbf{Visiting Research Fellow}
-
-SIMEXP Laboratory
-
-Centre de Reserche de l'Institut Universitaire de Geriatrie de Montreal,
-Canada
-\item [{$\text{2017, 2018}$}] \textbf{Visiting Research and Teaching Fellow}
-
-Lab of Mathematics: Nicolas Oresme
-
-University of Caen, France
 \item [{2015--2016}] \textbf{Postdoctoral Research Fellow}
 
 School of Mathematics and Physics, and Centre for Advanced Imaging
 
 University of Queensland, Brisbane, Australia
 \begin{lyxlist}{00.00.0000}
-\item [{Supervisors:}] Dr Andrew Janke and Prof Geoffrey McLachlan
-\item [{Project:}] Mixture modelling for multimodal medical imaging data
+\item [{}]~
 \end{lyxlist}
+\end{lyxlist}
+%
+\begin{lyxlist}{00.00.0000}
+\item [{\textbf{~}}] \textbf{\uline{Predoctoral Positions}}
 \item [{2010}] \textbf{Vacation Research Scholar}
 
 Diamantina Institute, University of Queensland, Brisbane, Australia
 \begin{lyxlist}{00.00.0000}
-\item [{Supervisor:}] Dr Michelle Hills
-\item [{Project:}] Bioinformatics for clinical proteomics
+\item [{}]~
 \end{lyxlist}
 \item [{2009}] \textbf{Research Assistant}
 
 Commonwealth Scientific and Industrial Research Organisation, Australia
-\begin{lyxlist}{00.00.0000}
-\item [{Supervisors:}] Dr Andrew George and Dr Emma Huang
-\item [{Project:}] Genome-wide association study of wheat crop traits
-\end{lyxlist}
+\item [{}]~
 \item [{2008}] \textbf{Vacation Research Scholar}
 
 Commonwealth Scientific and Industrial Research Organisation, Australia
+\item [{}]~
+\end{lyxlist}
+%
+
+\ecvsection{Honorary, Adjunct, and Service Appointments}
 \begin{lyxlist}{00.00.0000}
-\item [{Supervisors:}] Dr Andrew George and Dr Emma Huang
-\item [{Project:}] Association analysis in sugarcane---on the hunt for
-sugar genes
+\item [{2023--}] \textbf{Honorary Associate Professor}
+
+School of Mathematics and Physics
+
+University of Queensland, Brisbane, Australia
+\item [{2021--2023}] \textbf{Adjunct Senior Lecturer}
+
+Department of Mathematics and Statistics
+
+La Trobe University, Melbourne, Australia
+\item [{2020--2021}] \textbf{Deputy Head of Department}
+
+Department of Mathematics and Statistics
+
+La Trobe University, Melbourne, Australia
+\item [{2018,~2019}] \textbf{Visiting Research Fellow}
+
+Statify (previously Mistis) Team 
+
+Inria Centre at the University Grenoble Alpes, France
+\item [{2015,~2019}] \textbf{Visiting Research Fellow}
+
+SIMEXP Laboratory
+
+Centre de Reserche de l'Institut Universitaire de Geriatrie de Montreal,
+Canada
+\item [{2017,~2018}] \textbf{Visiting Research and Teaching Fellow}
+
+Lab of Mathematics: Nicolas Oresme
+
+University of Caen, Normandy, France
 \end{lyxlist}
-\end{lyxlist}
+%
 
 \ecvsection{Tertiary Education}
 \begin{lyxlist}{00.00.0000}
@@ -124,22 +179,16 @@ University of Queensland, Brisbane, Australia
 \begin{lyxlist}{00.00.0000}
 \item [{Supervisors:}] Prof Geoffrey McLachlan, Dr Ian Wood, and Dr Andrew
 Janke
-\item [{$\text{Thesis title}$:}] Finite mixture models for linear regression
-data
-\item [{$\text{Key words}$:}] Expectation-maximization algorithm, false
-discovery rate control, minorization-maximization algorithm, mixture
-model, neuroimaging, numerical optimization, random-effect models,
-regression
+\item [{Thesis~title:}] Finite mixture models for linear regression data
 \end{lyxlist}
 \item [{2006--2011}] \textbf{Bachelor of Science with First Class Honours
 in Statistics} (Mathematics and Statistics majors; University Medal)
 
 University of Queensland, Brisbane, Australia
 \begin{lyxlist}{00.00.0000}
-\item [{Supervisor:}] Dr Ian Wood and Dr Andrew George
-\item [{$\text{Thesis title}$:}] Variable selection in linear models using
-metaheuristic algorithms with applications in genome-wide association
-studies
+\item [{Supervisors:}] Dr Ian Wood and Dr Andrew George
+\item [{Thesis~title:}] Variable selection in linear models using metaheuristic
+algorithms with applications in genome-wide association studies
 \end{lyxlist}
 \item [{2010}] \textbf{Study Abroad} (Scholarship; Spring Semester)
 
@@ -148,97 +197,105 @@ University of California, Berkeley, USA
 
 University of Queensland, Brisbane, Australia
 \end{lyxlist}
+%
 
-\ecvsection{Teaching and Instruction}
+\ecvsection{Teaching and Course Coordination}
 \begin{lyxlist}{00.00.0000}
-\item [{2018}] \textbf{Optimization theory for statistics and machine learning}
-(University of Caen)
+\item [{\textbf{~}}] \textbf{\uline{Teaching}}
+\item [{2022,~2023}] \textbf{Mathematics for Data Science 1} (MATH7501,
+University of Queensland; Undergraduate)
+\item [{2022,~2023}] \textbf{Problems and Applications in Modern Statistics}
+(STAT3500, University of Queensland; Undergraduate)
+\item [{2021--2023}] \textbf{Statistical Learning} (STAT3006, University
+of Queensland; Undergraduate)
+\item [{2020,~2021}] \textbf{Models for bioinformatics} (STA5MB, La Trobe
+University; Postgraduate)
 
-A series of five lectures and three computer practical sessions were
-taught on the topic of optimization theory and its application to
-statistics and machine learning problems. The course concentrated
-on the fundamental theory of optimization with an emphasis on the
-framework of majorization-minimization algorithms. Applications of
-focus included regularized smooth and non-smooth regression, estimation
-of generalized support vector machines, and maximum likelihood estimation
-of latent variable models such as mixed effects and finite mixture
-models. Computer classes concentrated on the construction of algorithms
-using the R programming language.
-\begin{lyxlist}{00.00.0000}
-\item [{Capacity:}] Visiting Teaching Fellow, Lab of Mathematics: Nicolas
-Oresme
-\end{lyxlist}
-\item [{2018}] \textbf{Models for bioinformatics} (STA5MB, La Trobe University)
+\begin{comment}
+Also 2018. A masters level course on the application of statistical
+models and methods to the analysis of bioinformatics data. This course
+covered the use of visualization and exploratory tools for investigating
+bioinformatics data, as well as rigorous methods of analysis, such
+as via hypothesis testing and false discovery rate control protocols.
+The course contained both theoretical and practical aspects of bioinformatics
+data analysis, as well as computation, which was taught in the R programming
+language.
+\end{comment}
 
-A series of two lectures was taught on the topics of \emph{k}-means
-clustering, model-based clustering, the expectation maximization algorithn,
-empirical-Bayesian inference and false discovery rate control, with
-applications in bioinformatics.
-\begin{lyxlist}{00.00.0000}
-\item [{Capacity:}] Lecturer, Department of Mathematics and Statistics
-\end{lyxlist}
-\item [{2016}] \textbf{Experimental design} (STAT3003, University of Queensland)
+\item [{2016}] \textbf{Experimental design} (STAT3003, University of Queensland;
+Undergraduate)
 
+\begin{comment}
 A series of four lectures was taught on the topic of sampling theory
 and finite population statistics.
-\begin{lyxlist}{00.00.0000}
-\item [{Capacity:}] Casual Lecturer, School of Mathematics and Physics
-\end{lyxlist}
-\item [{2009--2014}] \textbf{Tutor} (School of Economics, University of
-Queensland)
+\end{comment}
 
-Provided instruction in various mathematical and quantitative courses
-that were taught by the School of Economics, University of Queensland
-including undergraduate and postgraduate courses.
+\end{lyxlist}
+%
 \begin{lyxlist}{00.00.0000}
-\item [{Undergraduate:}] Applied econometrics for macroeconomics and finance
+\item [{\textbf{~}}] \textbf{\uline{Coordination}}
+\item [{2020,~2021}] \textbf{Models for bioinformatics} (STA5MB, La Trobe
+University; Postgraduate)
+\item [{2020}] \textbf{Biostatistics} (STA2BS, La Trobe University; Undergraduate)
+\item [{2020}] \textbf{Engineering probability and statistics} (STM2EPS,
+La Trobe University; Undergraduate)
+\item [{\textbf{~}}] \textbf{\uline{Predoctoral Teaching}}
+\item [{2009--2014}] \textbf{Tutor} (School of Economics, University of
+Queensland)%
+\begin{comment}
+Undergraduate: Applied econometrics for macroeconomics and finance
 (ECON3350; 2014), Mathematical economics (ECON2050; 2012--2014),
 Tools of economic analysis (ECON1050; 2011, 2014), Introductory econometrics
 (2300; 2012), Quantitative economics and business analysis B (ECON1320;
 2009--2012), Quantitative economics and business analysis A (ECON1310;
 2009)
-\item [{Postgraduate:}] Mathematical techniques for economics (ECON7150;
-2013, 2014), Statistics for business and economics (ECON7300; 2010--2013),
-Elements of econometrics (ECON7310; 2012)
-\end{lyxlist}
-\item [{2007--2014}] \textbf{Tutor} (School of Mathematics and Physics,
-University of Queensland)
 
-Provided instruction across the catalog of courses taught by the School
-of Mathematics and Physics, including various courses in mathematics,
-probability, and statistics, as well as service-type quantitative
-courses for students outside of the school.
-\begin{lyxlist}{00.00.0000}
-\item [{Mathematics:}] Multivariate calculus and ODE (MATH1052; 2008, 2012),
+Postgraduate: Mathematical techniques for economics (ECON7150; 2013,
+2014), Statistics for business and economics (ECON7300; 2010--2013),
+Elements of econometrics (ECON7310; 2012)
+\end{comment}
+\item [{2007--2014}] \textbf{Tutor} (School of Mathematics and Physics,
+University of Queensland)%
+\begin{comment}
+Mathematics: Multivariate calculus and ODE (MATH1052; 2008, 2012),
 Calculus and linear algebra II (MATH2000; 2010), Calculus and linear
 algebra I (MATH1051; 2009), Basic mathematics (MATH1040; 2007)
-\item [{Statistics:}] Advanced analysis of scientific data (STAT1301; 2014),
+
+Statistics: Advanced analysis of scientific data (STAT1301; 2014),
 Experimental design (STAT3003; 2012, 2013), Analysis of scientific
 data (STAT1201; 2008--2011), Analysis of engineering and scientific
 data (STAT2201; 2009), Probability models for engineering and science
 (STAT2203; 2008)
-\item [{Service:}] Biomedical science (BIOM3200; 2012--2014), Research
-methodology (HRSS7806; 2011--2013), Pharmacy -- data analysis and
-professional practise (PHRM1020; 2008, 2009, 2011), Advanced research
-processes in health sciences (HRSS7808; 2010)
-\end{lyxlist}
+
+Service: Biomedical science (BIOM3200; 2012--2014), Research methodology
+(HRSS7806; 2011--2013), Pharmacy -- data analysis and professional
+practice (PHRM1020; 2008, 2009, 2011), Advanced research processes
+in health sciences (HRSS7808; 2010)
+\end{comment}
 \end{lyxlist}
 %
 
 \ecvsection{Peer-Reviewed Publications}
-
-\textbf{Journal Articles}
-
+\begin{lyxlist}{00.00.0000}
+\item [{\textbf{~}}] \textbf{\uline{Journal Articles}}
+\end{lyxlist}
+%
 \begin{btSect}[plainyrrev]{pr_articles}
 \btPrintAll
 \end{btSect}
-\textbf{Conference Papers}
 
+\begin{lyxlist}{00.00.0000}
+\item [{\textbf{~}}] \textbf{\uline{Conference Papers}}
+\end{lyxlist}
+%
 \begin{btSect}[plainyrrev]{pr_inproceedings}
 \btPrintAll
 \end{btSect}
-\textbf{Book Chapters}
 
+\begin{lyxlist}{00.00.0000}
+\item [{\textbf{~}}] \textbf{\uline{Book Chapters}}
+\end{lyxlist}
+%
 \begin{btSect}[plainyrrev]{pr_bookchapters}
 \btPrintAll
 \end{btSect}
@@ -260,9 +317,34 @@ processes in health sciences (HRSS7808; 2010)
 
 \ecvsection{Grants and Research Funding}
 \begin{lyxlist}{00.00.0000}
+\item [{2023--2026}] \textbf{Inria Associate Teams }(48,000 EURO)
+\begin{lyxlist}{00.00.0000}
+\item [{Co-investigator:}] Dr Florence Forbes (Inria Centre at the University
+Grenoble Alpes)
+\item [{Project:}] Variance-reduced Optimization Methods and Bayesian Approximation
+Techniques for scalable inference (WOMBAT)
+\end{lyxlist}
+\item [{2023--2025}] \textbf{Discovery Project} (360,000 AUD; DP230100905)
+
+Australian Research Council
+\begin{lyxlist}{00.00.0000}
+\item [{Co-investigators:}] Dr Xin Guo (University of Queensland), Dr Florence
+Forbes (Inria Centre at the University Grenoble Alpes), and A Prof
+Gersende Fort (CNRS)
+\item [{Project:}] Stochastic majorization--minimization algorithms for
+data science
+\end{lyxlist}
+\item [{2021--2023}] \textbf{Australian Government Road Safety Innovation
+Fund }(101,248 AUD)
+\begin{lyxlist}{00.00.0000}
+\item [{Co-investigator:}] Dr Long Truong (La Trobe University)
+\item [{Project:}] Development of planning-stage crash prediction tools
+for use at the planning stages
+\end{lyxlist}
 \item [{2019--2021}] \textbf{Inria Associate Teams }(36,000 EURO)
 \begin{lyxlist}{00.00.0000}
-\item [{Coinvestigator:}] Dr Florence Forbes (Inria Rhone-Alpes)
+\item [{Co-investigator:}] Dr Florence Forbes (Inria Centre at the University
+Grenoble Alpes)
 \item [{Project:}] Latent analysis, adversarial networks, and DimEnsionality
 Reduction (LANDER)
 \end{lyxlist}
@@ -270,7 +352,7 @@ Reduction (LANDER)
 
 Australian Research Council
 \begin{lyxlist}{00.00.0000}
-\item [{Coinvestigators:}] Prof Geoffrey McLachlan (University of Queensland)
+\item [{Co-investigators:}] Prof Geoffrey McLachlan (University of Queensland)
 and Dr Sharon Lee (University of Queensland)
 \item [{Project:}] Classification methods for providing personalised and
 class decisions
@@ -293,7 +375,8 @@ Australian-French Association for Research and Innovation
 Ministry of Europe and Foreign Affairs, and Ministry of Higher Education,
 Research and Innovation (France)
 \begin{lyxlist}{00.00.0000}
-\item [{Coawardee:}] Dr Florence Forbes (Inria Rhone-Alpes)
+\item [{Co-awardee:}] Dr Florence Forbes (Inria Centre at the University
+Grenoble Alpes)
 \item [{Project:}] Latent analysis, adversarial networks, and dimensionality
 reduction
 \end{lyxlist}
@@ -356,27 +439,184 @@ University of Queensland
 
 \ecvsection{Teaching Awards}
 \begin{lyxlist}{00.00.0000}
-\item [{$\text{2013, 2014}$}] \textbf{Distinguished Teaching Award}
+\item [{2013,~2014}] \textbf{Distinguished Teaching Award}
 
 School of Economics, University of Queensland
 \item [{2012}] \textbf{Excellence in Tutoring Award}
 
 School of Mathematics and Physics, University of Queensland
 \end{lyxlist}
+%
+
+\ecvsection{Post-Doctoral Supervision}
+\begin{lyxlist}{00.00.0000}
+\item [{2023--}] \textbf{Trung Tin Nguyen }(University of Queensland)
+
+Co-supervised with Dr Xin Guo, University of Queensland
+
+Project: Stochastic optimization algorithms for mixtures of experts
+\item [{2021--2023}] (Inria Centre at the University of Grenoble Alpes)
+
+Co-supervised with Dr Florence Forbes, Inria Centre at the University
+Grenoble Alpes
+
+Project: Non-asymptotic methods for Bayesian computation
+\end{lyxlist}
+%
+
+\ecvsection{Student Supervision}
+\begin{lyxlist}{00.00.0000}
+\item [{2024--}] \textbf{Jiading Liu }(PhD, University of Queensland)
+
+Co-supervised with Dr Xin Guo, University of Queensland
+
+Project: Kernel learning methods
+\item [{2024--}] \textbf{Jacob Westerhout }(PhD, University of Queensland)
+
+Co-supervised with Dr Xin Guo, University of Queensland
+
+Project: Weak convergence of empirical processes and the delta method
+\item [{2023}] (Honours, University of Queensland)
+
+Project: Asymptotic distributions of optimal values arising from sample
+averaging processes
+\item [{2019--2024}] \textbf{Daniel Fryer }(PhD, University of Queensland)
+
+Co-supervised with Prof Geoffrey McLachlan and Dr Ian Wood, University
+of Queensland
+
+Project: Interpretable methods in AI and statistics
+\item [{2019--2024}] \textbf{Fazel Almasi }(PhD, La Trobe University)
+
+Co-supervised with Profs Michael Stear, Jennie Pryce, Aniruddha Desai,
+and Drs Markandeya Jois and Eric Ponnampalam, La Trobe University
+
+Project: Parasitological and behavioral study of lambs using sensor
+technology
+\item [{2023---}] \textbf{Samad Roohi }(PhD, La Trobe University)
+
+Co-supervised with Dr Richard Skarbez, La Trobe University
+
+Project: Natural language models for affective conversation systems
+\item [{2023}] \textbf{Qingyuan Zhang }(Honours, University of Queensland)
+
+Project: Determination of optimal constraints for regularization problems
+in the Ivanov form
+\item [{2022--2023}] \textbf{Mark Chiu Chong }(Honours, University of
+Queensland)
+
+Project: Risk bounds for mixture density estimation on compact sets
+via Bregman divergences
+\item [{2022}] \textbf{Callum Macfarlane }(Honours, University of Queensland)
+
+Co-supervised with Em Prof Alan Mark and Dr Martin Stroet, University
+of Queensland
+
+Project: Optimisation methods of refined point charge fitting for
+molecular modelling forcefields
+\item [{2021--2022}] \textbf{Nicholas Williams }(Honours, University of
+Queensland)
+
+Co-supervised with Dr Ramiro Lafuente, University of Queensland
+
+Project: Links between maximum likelihood estimation and geometric
+invariant theory
+\item [{2019--2022}] \textbf{Cong Duc Phan }(M Engineering, La Trobe University)
+
+Co-supervised with Dr Long Truong, La Trobe University
+
+Project: Exploring the Network-wide Road Safety Impacts of Public
+Transport Usage and Congestion Levels
+\item [{2018--2021}] \textbf{Trung Tin Nguyen }(PhD, University of Caen,
+Normandy)
+
+Co-supervised with Prof Faicel Chamroukhi, University of Caen, Normandy
+
+Project: Learning and approximation theory of mixture models and mixture
+of experts
+\item [{2020}] \textbf{Nauvoo Perez }(AMSI Vacation Scholar, La Trobe University)
+
+Project: Statistical learning for time-to-relapse of colorectal cancer
+patients
+\end{lyxlist}
+\begin{comment}
+2017-- \textbf{Mason Terrett }(PhD Candidate, La Trobe University)
+
+Co-supervised with Dr Tanya Doody, CSIRO
+
+Project: Applications of synthetic aperture radar for the identification
+of groundwater-dependent ecosystems
+
+2017-- \textbf{Jessica Bagnall }(PhD Candidate, La Trobe University)
+
+Project: Machine learning methods in social science
+\end{comment}
+
 
 \ecvsection{Conference Presentations}
-
-\textbf{Poster Presentations}
 \begin{lyxlist}{00.00.0000}
-\item [{2014}] \textbf{Asymptotic inference for hidden process regresion
+\item [{\textbf{~}}] \textbf{\uline{Talks}}
+\item [{2023}] \textbf{PanIC: an information criterion approach for generic
+model selection problems}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] Australian Statistical Conference
+\item [{Location:}] Wollongong, Australia
+\end{lyxlist}
+\item [{2023}] \textbf{A non-asymptotic risk bound for model selection
+in a high-dimensional mixture of experts via joint rank and variable
+selection}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] Australasian Joint Conference for Artificial Intelligence
+\item [{Location:}] Brisbane, Australia
+\end{lyxlist}
+\item [{2023}] \textbf{Convergence of Bayesian posterior statistics and
+related quantities}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] Sequential Monte Carlo Down Under
+\item [{Location:}] Brisbane, Australia
+\end{lyxlist}
+\item [{2022}] $\left(\text{\textbf{SAM}}\right)^{2}$\textbf{: a family
+of sequential sample averaging algorithms via majorization--minimization}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] CSDA and EcoSta Workshop on Statistical Data Science
+\item [{Location:}] Bologna, Italy (Delivered online)
+\end{lyxlist}
+\item [{2022}] \textbf{An online MM algorithm}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] 17th conference of the International Federation of
+Classification Societies
+\item [{Location:}] Porto, Portugal
+\end{lyxlist}
+\item [{2021}] \textbf{Finite sample inference for nonlinear autoregressive
 models}
 \begin{lyxlist}{00.00.0000}
-\item [{Conference:}] IEEE Statistical Signal Processing Workshop
-\item [{Location:}] Gold Coast, Australia
+\item [{Conference:}] 15th International Conference of the ERCIM WG on
+Computational and Methodological Statistics (CMStatistics)
+\item [{Location:}] London, UK (Delivered online)
 \end{lyxlist}
-\end{lyxlist}
-\textbf{Oral Presentations}
+\item [{2021}] \textbf{Universal inference with composite likelihoods}
 \begin{lyxlist}{00.00.0000}
+\item [{Conference:}] ISI World Statistics Congress 
+\item [{Location:}] Online
+\end{lyxlist}
+\item [{2021}] \textbf{Distance-based ABC procedures}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] ABC in Svalbard 
+\item [{Location:}] Melbourne, Australia (Delivered onsite and online)
+\end{lyxlist}
+\item [{2020}] \textbf{Global implicit function theorems and the online
+EM algorithm}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] 14th International Conference of the ERCIM WG on
+Computational and Methodological Statistics (CMStatistics)
+\item [{Location:}] London, UK (Delivered online)
+\end{lyxlist}
+\item [{2019}] \textbf{Mixture of autoregressive moving average models}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] 13th International Conference of the ERCIM WG on
+Computational and Methodological Statistics (CMStatistics)
+\item [{Location:}] London, UK
+\end{lyxlist}
 \item [{2019}] \textbf{Approximate Bayesian computation with discrepancy
 measurements}
 \begin{lyxlist}{00.00.0000}
@@ -427,7 +667,7 @@ Data}
 sphere via mixture models}
 \begin{lyxlist}{00.00.0000}
 \item [{Conference:}] Joint Statistics Meeting
-\item [{Location:}] Baltimore, Australia
+\item [{Location:}] Baltimore, USA
 \end{lyxlist}
 \item [{2016}] \textbf{Fast model-based clustering of functional data via
 Gaussian mixture models}
@@ -438,8 +678,6 @@ and Methodological Statistics (CMStatistics)
 \end{lyxlist}
 \item [{2015}] \textbf{Spatial clustering of time-series via mixtures of
 autoregressive models and Markov random fields}
-
-https://www.dropbox.com/s/d03n4hy4pepu056/Slides.pdf?dl=0
 \begin{lyxlist}{00.00.0000}
 \item [{Conference:}] 8th International Conference of the ERCIM WG on Computational
 and Methodological Statistics (CMStatistics)
@@ -460,9 +698,92 @@ studies}
 \item [{Location:}] Brisbane, Australia
 \end{lyxlist}
 \end{lyxlist}
+%
+\begin{lyxlist}{00.00.0000}
+\item [{\textbf{~}}] \textbf{\uline{Posters}}
+\item [{2014}] \textbf{Asymptotic inference for hidden process regression
+models}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] IEEE Statistical Signal Processing Workshop
+\item [{Location:}] Gold Coast, Australia
+\end{lyxlist}
+\end{lyxlist}
 
 \ecvsection{Invited Presentations and Workshops}
 \begin{lyxlist}{00.00.0000}
+\item [{2024}] \textbf{The limits of some Bayesian model evaluation statistics}
+(Kyushu University, Statistical Science Seminar)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] Kyushu University, Japan
+\end{lyxlist}
+\item [{2024}] \textbf{MM Algorithms for Optimization of Statistical Models}
+(4-day Intensive Course for the Joint Graduate School of Mathematics
+for Innovation)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] Kyushu University, Japan
+\end{lyxlist}
+\item [{2023}] \textbf{PanIC at the Boathouse}
+\begin{lyxlist}{00.00.0000}
+\item [{Conference:}] ANU RSFAS Summer Research Camp
+\item [{Location:}] Canberra, Australia
+\end{lyxlist}
+\item [{2022}] \textbf{Asymptotic concentration of the ABC posterior estimator
+without identifiability }(ICASM)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] University of Economics, Ho Chi Minh City, Vietnam
+(Delivered online)
+\end{lyxlist}
+\item [{2021}] \textbf{Finite sample inference for generic autoregressive
+models }(Math for Industry Forum)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] VIASM, Hanoi, Vietnam (Delivered online)
+\end{lyxlist}
+\item [{2021}] \textbf{Approximate Bayesian computation }(Intellectual
+Climate Fund Seminar)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] La Trobe University, Melbourne (Delivered online)
+\end{lyxlist}
+\item [{2021}] \textbf{Universal inference with composite likelihoods }(Research
+School of Finance, Actuarial Studies and Statistics Seminar)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] Australian National University, Canberra (Delivered
+online)
+\end{lyxlist}
+\item [{2021}] \textbf{Order selection with confidence for mixture models
+}(Department of Mathematics and Statistics Colloquium)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] Macquarie University, Sydney (Delivered online)
+\end{lyxlist}
+\item [{2020}] \textbf{Machine learning for statistical analysis -- it's
+just a game! }(AgriBio, Intellectual Climate Fund talk)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] La Trobe University, Melbourne (Delivered online)
+\end{lyxlist}
+\item [{2020}] \textbf{Multivariate analyses---A normal approach }(AgriBio,
+Intellectual Climate Fund talk)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] La Trobe University, Melbourne (Delivered online)
+\end{lyxlist}
+\item [{2020}] \textbf{The multiple testing problem in high-throughput
+biology }(AgriBio Lectures in Mathematical Biology)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] La Trobe University, Melbourne (Delivered online)
+\end{lyxlist}
+\item [{2020}] \textbf{Approximate Bayesian computation via the energy
+statistic }(One World Approximate Bayesian Computation (ABC) Seminar)
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] University of Warwick, UK (Delivered online)
+\end{lyxlist}
+\item [{2020}] \textbf{Shapley values for linear regression models and
+its application to explainable AI}
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] University of Sydney, Australia
+\end{lyxlist}
+\item [{2019}] \textbf{Approximation by finite mixtures of continuous density
+functions that vanish at infinity}
+\begin{lyxlist}{00.00.0000}
+\item [{Location:}] University of Glasgow, Scotland
+\end{lyxlist}
 \item [{2019}] \textbf{Approximate Bayesian computation using the energy
 statistic }(CDAC Seminar)
 \begin{lyxlist}{00.00.0000}
@@ -481,7 +802,7 @@ family mixtures}
 \item [{2018}] \textbf{Minibatch and incremental learning of exponential
 family mixtures, and the soft k-means clustering problem}
 \begin{lyxlist}{00.00.0000}
-\item [{Location:}] Inria Grenoble Rhone-Alpes, France
+\item [{Location:}] Inria Centre at the University Grenoble Alpes, France
 \end{lyxlist}
 \item [{2018}] \textbf{The fully-visible Boltzmann machine, maximum pseudolikelihood
 estimation, and the Senate of the 45th Australian Parliament }(Monash
@@ -489,7 +810,7 @@ Econometrics and Business Statistics Seminar)
 \begin{lyxlist}{00.00.0000}
 \item [{Location:}] Monash University, Australia
 \end{lyxlist}
-\item [{2018}] \textbf{A maximum likelihood oddity} (Statstics Seminar)
+\item [{2018}] \textbf{A maximum likelihood oddity} (Statistics Seminar)
 \begin{lyxlist}{00.00.0000}
 \item [{Location:}] La Trobe University, Australia
 \end{lyxlist}
@@ -515,16 +836,16 @@ de Montreal, Canada
 \end{lyxlist}
 \item [{2017}] \textbf{False discovery rate control under rounding of p-values}
 \begin{lyxlist}{00.00.0000}
-\item [{Location:}] Inria Grenoble Rhone-Alpes, France
+\item [{Location:}] Inria Centre at the University Grenoble Alpes, France
 \end{lyxlist}
-\item [{2017}] \textbf{Majorization-minimization (MM) algorithms for statistical
-inference and machine learning problems }(Research Summer School in
-Statistics and Big Data Science)
+\item [{2017}] \textbf{Majorization--minimization (MM) algorithms for
+statistical inference and machine learning problems }(Research Summer
+School in Statistics and Big Data Science)
 \begin{lyxlist}{00.00.0000}
 \item [{Location:}] University of Caen, France
 \end{lyxlist}
 \item [{2017}] \textbf{Chunked-and-averaged estimators for statistically
-embarassingly parallel computation and online learning }(Workshop
+embarrassingly parallel computation and online learning }(Workshop
 on Big Data Analysis)
 \begin{lyxlist}{00.00.0000}
 \item [{Location:}] La Trobe University, Australia
@@ -570,50 +891,116 @@ Interest/Lay Audience Seminar at the School of Mathematics and Physics)
 
 \ecvsection{Professional Service}
 \begin{lyxlist}{00.00.0000}
-\item [{2020}] \textbf{Elected Member of the Academic Board}
+\item [{2024--}] \textbf{Member of the Graduate Program of Mathematics
+for Innovation}
 
-Level C/D Representative
+Joint Graduate School of Mathematics for Innovation
+\begin{lyxlist}{00.00.0000}
+\item [{Institution:}] Kyushu University, Japan
+\end{lyxlist}
+\item [{2024--}] \textbf{La Trobe--Kyushu Joint Seminar Administrator}
+
+Institute of Mathematics for Industry
+\begin{lyxlist}{00.00.0000}
+\item [{Institution:}] Kyushu University, Japsan
+\end{lyxlist}
+\item [{2022--2023}] \textbf{Chair of Engagement, Advancement and Internationalization}
+
+School of Mathematics and Physics
+\begin{lyxlist}{00.00.0000}
+\item [{Institution:}] University of Queensland, Australia
+\end{lyxlist}
+\item [{2022--2023}] \textbf{UQ School of Mathematics and Physics Representative}
+
+Institution: Australian Data Science Network
+\item [{2022--2023}] \textbf{Faculty and School Student Misconduct Committee
+Member}
+
+School of Mathematics and Physics
+\begin{lyxlist}{00.00.0000}
+\item [{Institution:}] University of Queensland, Australia
+\end{lyxlist}
+\item [{2022--2023}] \textbf{Faculty EMCA Reference Group Representative
+and School EMCA Committee Member}
+
+School of Mathematics and Physics
+\begin{lyxlist}{00.00.0000}
+\item [{Institution:}] University of Queensland, Australia
+\end{lyxlist}
+\item [{2022--2023}] \textbf{Mentoring Chair}
+
+Research Committee, School of Mathematics and Physics
+\begin{lyxlist}{00.00.0000}
+\item [{Institution:}] University of Queensland, Australia
+\end{lyxlist}
+\item [{2021--2023}] \textbf{Statistics, Modelling and Operations Research
+Seminar Administrator}
+
+School of Mathematics and Physics
+\begin{lyxlist}{00.00.0000}
+\item [{Institution:}] University of Queensland, Australia
+\end{lyxlist}
+\item [{2020--2021}] \textbf{Mathematics, Statistics, and Data Science
+Majors Course Advisor}
+
+Bachelor of Science Program, College of Science, Health and Engineering
 \begin{lyxlist}{00.00.0000}
 \item [{Institution:}] La Trobe University, Australia
 \end{lyxlist}
-\item [{$\text{2018, 2019}$}] \textbf{PhD Confirmations Committee Chair}
+\item [{2020--2021}] \textbf{Elected Member of the Academic Board}
+
+Levels C/D Representative
+\begin{lyxlist}{00.00.0000}
+\item [{Institution:}] La Trobe University, Australia
+\end{lyxlist}
+\end{lyxlist}
+\begin{comment}
+2018--2021 \textbf{PhD Confirmations Committee Chair}
+
+Department of Mathematics and Statistics
+
+Institution: La Trobe University, Australia
+
+2017--2021 \textbf{Masters Theses Committee Member}
+
+Department of Mathematics and Statistics
+
+Institution: La Trobe University, Australia
+\end{comment}
+
+\begin{lyxlist}{00.00.0000}
+\item [{2017,~2018}] \textbf{Statistics Seminar Administrator}
 
 Department of Mathematics and Statistics
 \begin{lyxlist}{00.00.0000}
 \item [{Institution:}] La Trobe University, Australia
 \end{lyxlist}
-\item [{$\text{2017, 2018}$}] \textbf{Statistics Seminar Administrator}
-
-Department of Mathematics and Statistics
-\begin{lyxlist}{00.00.0000}
-\item [{Institution:}] La Trobe University, Australia
 \end{lyxlist}
-\item [{2017--2019}] \textbf{Masters Theses Committee Member}
-
-Department of Mathematics and Statistics
+\begin{comment}
 \begin{lyxlist}{00.00.0000}
-\item [{Institution:}] La Trobe University, Australia
-\end{lyxlist}
 \item [{2016}] \textbf{PhD Confirmation Committee Member}
 
 School of Mathematics and Physics
 \begin{lyxlist}{00.00.0000}
 \item [{Institution:}] University of Queensland, Australia
 \end{lyxlist}
-\item [{2015}] \textbf{Promotion Application Assessor}
+\end{lyxlist}
+2015 \textbf{Promotion Application Assessor}
 
 School of Mathematics and Physics
-\begin{lyxlist}{00.00.0000}
-\item [{Institution:}] University of Queensland, Australia
-\end{lyxlist}
-\item [{$\text{2012, 2013}$}] \textbf{Interview Panel Member for Statistics
-Lecturer Positions}
+
+Institution: University of Queensland, Australia
+
+2012,~2013 \textbf{Interview Panel Member for Statistics Lecturer
+Positions}
 
 School of Mathematics and Physics
+
+Institution: University of Queensland, Australia
+\end{comment}
+
 \begin{lyxlist}{00.00.0000}
-\item [{Institution:}] University of Queensland, Australia
-\end{lyxlist}
-\item [{$\text{2012, 2013}$}] \textbf{Treasurer}
+\item [{2012,~2013}] \textbf{Treasurer}
 
 Mathematics Students Society
 \begin{lyxlist}{00.00.0000}
@@ -628,38 +1015,37 @@ School of Mathematics and Physics
 \end{lyxlist}
 
 \ecvsection{Academic Service}
-
-\textbf{Grant Assessor}
 \begin{lyxlist}{00.00.0000}
-\item [{$\text{2018, 2019}$}] \textbf{Linkage Projects}
+\item [{\textbf{~}}] \textbf{\uline{Grant Assessor}}
+\item [{2018}] \textbf{Free University of Bozen-Bolzano, Italy}
+\item [{2017--}] \textbf{Australian Research Council, Australia}
 
-Australian Research Council, Australia
-\item [{2018}] \textbf{Internal Research Funds}
+Discovery Early Career Research Awards; Discovery Projects; Linkage
+Projects; Future Fellowships; Laureate Fellowships
+\item [{\textbf{~}}] \textbf{\uline{Editorial Positions}}
+\item [{2024--}] \textbf{Associate Editor}
 
-Free University of Bozen-Bolzano, Italy
-\item [{$\text{2017, 2018}$}] \textbf{Discovery Projects}
+Japanese Journal of Statistics and Data Science (Springer)
+\item [{2023--}] \textbf{Book Review Editor}
 
-Australian Research Council, Australia
-\item [{$\text{2017, 2018}$}] \textbf{Discovery Early Career Research
-Awards}
+Australian and New Zealand Journal of Statistics (Wiley)
+\item [{2019--}] \textbf{Associate Editor (Statistics)}
 
-Australian Research Council, Australia
-\end{lyxlist}
-\textbf{Editorial Positions}
-\begin{lyxlist}{00.00.0000}
-\item [{2019--}] \textbf{Associate and Handling Editor (Statistical Computing)}
+Frontiers in Applied Mathematics and Statistics (Frontiers)
+\item [{2019--2023}] \textbf{Handling Editor (Statistical Computing)}
 
 Australian and New Zealand Journal of Statistics (Wiley)
 \item [{2018--}] \textbf{Technical Editor}
 
 Australian and New Zealand Journal of Statistics (Wiley)
-\item [{2018--}] \textbf{Associate Editor}
+\item [{\textbf{~}}] \textbf{\uline{Conference Commitments}}
+\item [{2023}] \textbf{Organization Committee Member (Chair of Sponsorships)}
 
-International Journal of Machine Intelligence and Sensory Signal Processing
-(Inderscience)
-\end{lyxlist}
-\textbf{Conference Commitments}
-\begin{lyxlist}{00.00.0000}
+67th Annual Meeting of the Australian Mathematical Society (AustMS
+2023), Brisbane Australia
+\item [{2020}] \textbf{Program Committee Member}
+
+18th Australasian Data Mining Conference (AusDM), Canberra Australia
 \item [{2019}] \textbf{Workshop Co-chair}
 
 Research School in Statistics and Data Science (RSSDS), Melbourne
@@ -679,44 +1065,41 @@ in Big Data)
 
 2nd International Conference on Smart Grid Assisted Internet of Things
 (SGIoT)
+\item [{\textbf{~}}] \textbf{\uline{Peer Review}}
+
+Advances in Data Analysis and Classification (Springer);Applied Mathematical
+Modelling (Elsevier); Annals of Applied Statistics (Project Euclid);
+Annals of Statistics (Project Euclid); Australasian Journal of Information
+Systems (Australian Computer Society); Australian and New Zealand
+Journal of Statistics (Wiley); BMC Bioinformatics (BioMed Central);
+Computational Statistics (Springer); Computational Statistics and
+Data Analysis (Elsevier); Communications in Statistics -- Simulation
+and Computation (Taylor Francis); Electronic Journal of Statistics
+(Project Euclid); IEEE Transactions on Fuzzy Systems (IEEE); IEEE
+Transactions on Image Processing (IEEE); IEEE Transactions on Medical
+Imaging (IEEE); Information Sciences (Elsevier); International Journal
+of Computers and Applications (Taylor Francis); International Journal
+of Forecasting (Elsevier); International Journal of Machine Intelligence
+and Sensory Signal Processing (Inderscience); Journal of the American
+Statistical Association (Taylor Francis); Journal of Computational
+and Graphical Statistics (Taylor Francis); Journal of Open Source
+Software (Open Source Initiative); Journal of Statistical Computation
+and Simulation (Taylor Francis); Journal of Statistical Planning and
+Inference (Elsevier); Knowledge-Based Systems (Elsevier); Royal Society
+Open Science (Royal Society); Statistical Modelling: An International
+Journal (SAGE); Statistical Analysis and Data Mining (Wiley); Statistics
+Surveys (Project Euclid); Statistics and Computing (Springer); Statistics
+in Medicine (Wiley); WIREs: Data Mining and Knowledge Discovery (Wiley)
 \end{lyxlist}
-\textbf{Peer Review}
-\begin{itemize}
-\item Advances in Data Analysis and Classification (Springer)
-\item Applied Mathematical Modelling (Elsevier)
-\item Australasian Journal of Information Systems (Australian Computer Society)
-\item BMC Bioinformatics (BioMed Central)
-\item Computational Statistics (Springer)
-\item Computational Statistics and Data Analysis (Elsevier)
-\item Communications in Statistics -- Simulation and Computation (Taylor
-Francis)
-\item Electronic Journal of Statistics (Project Euclid)
-\item IEEE Transactions on Fuzzy Systems (IEEE)
-\item IEEE Transactions on Image Processing (IEEE)
-\item IEEE Transactions on Medical Imaging (IEEE)
-\item International Journal of Computers and Applications (Taylor Francis)
-\item International Journal of Machine Intelligence and Sensory Signal Processing
-(Inderscience)
-\item Journal of Open Source Software (Open Source Initiative)
-\item Journal of Statistical Computation and Simulation (Taylor Francis)
-\item Journal of Statistical Planning and Inference (Elsevier)
-\item Knowledge-Based Systems (Elsevier)
-\item Royal Society Open Science (Royal Society)
-\item Statistical Modelling: An International Journal (SAGE)
-\item Statistical Analysis and Data Mining (Wiley)
-\item Statistics Surveys (Project Euclid)
-\item Statistics and Computing (Springer)
-\item Statistics in Medicine (Wiley)
-\item WIREs: Data Mining and Knowledge Discovery (Wiley)
-\end{itemize}
 
 \ecvsection{Professional Memberships}
 \begin{lyxlist}{00.00.0000}
-\item [{2019--}] Statistical Society of Australia (Victoria Branch, Guest
-Council Member)
+\item [{2022--}] Australian Mathematical Society (Fellowship Committee
+Member 2022--)
+\item [{2019--}] Statistical Society of Australia (Victoria Branch, Council
+Member 2020--2021; Queensland Branch, President 2023--)
 \item [{2018--}] Australian-French Association for Research and Innovation
 (AFRAN)
-\item [{2018--}] NumFOCUS Community Member
 \end{lyxlist}
 
 \end{document}
