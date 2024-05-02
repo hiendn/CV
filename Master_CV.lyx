@@ -702,29 +702,6 @@ Statistical Learning
  (STA5MB, La Trobe University; Postgraduate)
 \end_layout
 
-\begin_deeper
-\begin_layout Standard
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-Also 2018.
- A masters level course on the application of statistical models and methods
- to the analysis of bioinformatics data.
- This course covered the use of visualization and exploratory tools for
- investigating bioinformatics data, as well as rigorous methods of analysis,
- such as via hypothesis testing and false discovery rate control protocols.
- The course contained both theoretical and practical aspects of bioinformatics
- data analysis, as well as computation, which was taught in the R programming
- language.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2016 
@@ -734,22 +711,6 @@ Experimental design
  (STAT3003, University of Queensland; Undergraduate)
 \end_layout
 
-\begin_deeper
-\begin_layout Standard
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-A series of four lectures was taught on the topic of sampling theory and
- finite population statistics.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 \begin_inset Separator plain
 \end_inset
@@ -819,26 +780,6 @@ Predoctoral Teaching
 Tutor
 \series default
  (School of Economics, University of Queensland)
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-Undergraduate: Applied econometrics for macroeconomics and finance (ECON3350;
- 2014), Mathematical economics (ECON2050; 2012–2014), Tools of economic
- analysis (ECON1050; 2011, 2014), Introductory econometrics (2300; 2012),
- Quantitative economics and business analysis B (ECON1320; 2009–2012), Quantitat
-ive economics and business analysis A (ECON1310; 2009)
-\end_layout
-
-\begin_layout Plain Layout
-Postgraduate: Mathematical techniques for economics (ECON7150; 2013, 2014),
- Statistics for business and economics (ECON7300; 2010–2013), Elements of
- econometrics (ECON7310; 2012)
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
@@ -848,32 +789,6 @@ Postgraduate: Mathematical techniques for economics (ECON7150; 2013, 2014),
 Tutor
 \series default
  (School of Mathematics and Physics, University of Queensland)
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-Mathematics: Multivariate calculus and ODE (MATH1052; 2008, 2012), Calculus
- and linear algebra II (MATH2000; 2010), Calculus and linear algebra I (MATH1051
-; 2009), Basic mathematics (MATH1040; 2007)
-\end_layout
-
-\begin_layout Plain Layout
-Statistics: Advanced analysis of scientific data (STAT1301; 2014), Experimental
- design (STAT3003; 2012, 2013), Analysis of scientific data (STAT1201; 2008–2011
-), Analysis of engineering and scientific data (STAT2201; 2009), Probability
- models for engineering and science (STAT2203; 2008)
-\end_layout
-
-\begin_layout Plain Layout
-Service: Biomedical science (BIOM3200; 2012–2014), Research methodology
- (HRSS7806; 2011–2013), Pharmacy – data analysis and professional practice
- (PHRM1020; 2008, 2009, 2011), Advanced research processes in health sciences
- (HRSS7808; 2010)
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1782,44 +1697,6 @@ Project: Statistical learning for time-to-relapse of colorectal cancer patients
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-2017– 
-\series bold
-Mason Terrett 
-\series default
-(PhD Candidate, La Trobe University)
-\end_layout
-
-\begin_layout Plain Layout
-Co-supervised with Dr Tanya Doody, CSIRO
-\end_layout
-
-\begin_layout Plain Layout
-Project: Applications of synthetic aperture radar for the identification
- of groundwater-dependent ecosystems
-\end_layout
-
-\begin_layout Plain Layout
-2017– 
-\series bold
-Jessica Bagnall 
-\series default
-(PhD Candidate, La Trobe University)
-\end_layout
-
-\begin_layout Plain Layout
-Project: Machine learning methods in social science
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 Conference Presentations
 \end_layout
