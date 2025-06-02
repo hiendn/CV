@@ -1000,13 +1000,40 @@ options "plainyrrev"
 \end_layout
 
 \begin_layout Section
-
-\end_layout
-
-\begin_layout Section
 Grants and Research Funding
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2025–2027 
+\series bold
+Discovery Project
+\series default
+ (531,000 AUD;
+ DP250100860)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigators:
+ Professor Shu-Kay Angus Ng (Griffith University),
+ Dr Florence Forbes (Inria Centre at the University Grenoble Alpes),
+ and A Prof Liming Xiang (Nanyang Technological University,
+ Singapore)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Advancing statistical models for clustering data with structured dependence
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2023–2026 
@@ -1510,7 +1537,7 @@ Post-Doctoral Supervision
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2023– 
+2023–2025 
 \series bold
 Trung Tin Nguyen 
 \series default
@@ -1845,6 +1872,29 @@ Talks
 \labelwidthstring 00.00.0000
 2024 
 \series bold
+Lp approximation rates for location-scale mixture densities and other matters
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Conference:
+ Joint Meeting of the NZMS,
+ AustMS and AMS
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location:
+ Auckland,
+ New Zealand
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024 
+\series bold
 Bayesian Likelihood Free Inference using Mixtures of Experts
 \end_layout
 
@@ -1858,7 +1908,8 @@ Conference:
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 Location:
- Venice Italy
+ Venice,
+ Italy
 \end_layout
 
 \end_deeper
@@ -2400,6 +2451,42 @@ Location:
 Invited Presentations and Workshops
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2025 
+\series bold
+Approximation and estimation of density functions by finite mixture models
+\series default
+ (I2CNER-IMI Joint International Workshop)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location:
+ Kyushu University,
+ Japan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024 
+\series bold
+Lp approximation rates for location-scale mixture densities and other matters
+\series default
+ (Sydney Workshop on Mathematics of Data Science)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Location:
+ University of Sydney,
+ Australia
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2024 
@@ -3670,24 +3757,29 @@ Peer Review
 
 \begin_deeper
 \begin_layout Standard
-Advances in Data Analysis and Classification (Springer);Applied Mathematical Modelling (Elsevier);
+Advances in Data Analysis and Classification (Springer);
+ Applied Mathematical Modelling (Elsevier);
  Annals of Applied Statistics (Project Euclid);
  Annals of Statistics (Project Euclid);
  Australasian Journal of Information Systems (Australian Computer Society);
  Australian and New Zealand Journal of Statistics (Wiley);
  BMC Bioinformatics (BioMed Central);
  Computational Statistics (Springer);
+ Biometrika (Oxford University Press);
  Computational Statistics and Data Analysis (Elsevier);
  Communications in Statistics – Simulation and Computation (Taylor Francis);
  Electronic Journal of Statistics (Project Euclid);
  IEEE Transactions on Fuzzy Systems (IEEE);
  IEEE Transactions on Image Processing (IEEE);
+ IEEE Transactions on Information Theory (IEEE);
  IEEE Transactions on Medical Imaging (IEEE);
  Information Sciences (Elsevier);
  International Journal of Computers and Applications (Taylor Francis);
  International Journal of Forecasting (Elsevier);
  International Journal of Machine Intelligence and Sensory Signal Processing (Inderscience);
+ Japanese Journal of Statistics and Data Science (Springer);
  Journal of the American Statistical Association (Taylor Francis);
+ Journal of Classification (Springer);
  Journal of Computational and Graphical Statistics (Taylor Francis);
  Journal of Open Source Software (Open Source Initiative);
  Journal of Statistical Computation and Simulation (Taylor Francis);
@@ -3711,6 +3803,11 @@ Professional Memberships
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2025– Institute of Mathematical Statistics (Regular Member)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2024– International Society for Bayesian Analysis (Regular Member)
 \end_layout
 
@@ -3724,7 +3821,7 @@ Professional Memberships
 2019– Statistical Society of Australia (Victoria Branch,
  Council Member 2020–2021;
  Queensland Branch,
- President 2023–)
+ President 2023–2025)
 \end_layout
 
 \begin_layout Labeling
