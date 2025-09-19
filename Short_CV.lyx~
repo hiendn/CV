@@ -1,0 +1,1948 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass europasscv
+\begin_preamble
+\usepackage{url}
+
+\usepackage{geometry}
+\geometry{
+ a4paper,
+ left=15mm,
+ top=15mm,
+ right=15mm,
+ bottom=15mm,
+ head=10mm,
+headsep=0mm,
+footskip=0mm
+}
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\newcommand{\helv}{%
+\fontfamily{phv}\fontsize{9}{11}\selectfont}
+\renewcommand{\headrulewidth}{0.0pt}
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{\helv \thepage / \pageref{LastPage}}
+\end_preamble
+\options nologo,nodocument,black
+\use_default_options true
+\maintain_unincluded_children no
+\language english
+\language_package default
+\inputencoding auto-legacy
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\paperfontsize default
+\spacing double
+\use_hyperref false
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type numerical
+\biblio_style plainyr
+\use_bibtopic true
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 1
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\end_header
+
+\begin_body
+
+\begin_layout Name
+Hien Duy Nguyen
+\end_layout
+
+\begin_layout Address
+School of Computing,
+ Engineering and Mathematical Sciences,
+ La Trobe University,
+ Melbourne,
+ Australia
+\end_layout
+
+\begin_layout Email
+h.nguyen5@latrobe.edu.au
+\end_layout
+
+\begin_layout Telephone
++61 434 253 952
+\end_layout
+
+\begin_layout Homepage
+hiendn.github.io
+\end_layout
+
+\begin_layout Section
+Academic and Research Employment
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023–
+\series bold
+ Professor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Institute of Mathematics for Industry 
+\end_layout
+
+\begin_layout Standard
+Kyushu University,
+ Fukuoka,
+ Japan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023– 
+\series bold
+Associate Professor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematical and Physical Sciences
+\end_layout
+
+\begin_layout Standard
+La Trobe University,
+ Melbourne,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021–2023 
+\series bold
+Senior Lecturer
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Standard
+University of Queensland,
+ Brisbane,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019–2021 
+\series bold
+Senior Lecturer
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Standard
+La Trobe University,
+ Melbourne,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016–2020 
+\series bold
+DECRA Research Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council (ARC) grant number:
+ DE170101134.
+\end_layout
+
+\begin_layout Standard
+La Trobe University,
+ Melbourne,
+ Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Project:
+ Feasible algorithms for big inference.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016–2019 
+\series bold
+Lecturer
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Standard
+La Trobe University,
+ Melbourne,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015–2016 
+\series bold
+Postdoctoral Research Fellow
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics,
+ and Centre for Advanced Imaging
+\end_layout
+
+\begin_layout Standard
+University of Queensland,
+ Brisbane,
+ Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisors:
+ Dr Andrew Janke and Prof Geoffrey McLachlan
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Mixture modelling for multimodal medical imaging data
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Predoctoral Positions
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 
+\series bold
+Vacation Research Scholar
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Diamantina Institute,
+ University of Queensland,
+ Brisbane,
+ Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisor:
+ Dr Michelle Hills
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Bioinformatics for clinical proteomics
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2009 
+\series bold
+Research Assistant
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Commonwealth Scientific and Industrial Research Organisation,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisors:
+ Dr Andrew George and Dr Emma Huang
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Genome-wide association study of wheat crop traits
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2008 
+\series bold
+Vacation Research Scholar
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Commonwealth Scientific and Industrial Research Organisation,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisors:
+ Dr Andrew George and Dr Emma Huang
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Association analysis in sugarcane—
+on the hunt for sugar genes
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Tertiary Education
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011–2015 
+\series bold
+PhD in Statistics
+\series default
+ (Dean's Award for Outstanding RHD Theses)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland,
+ Brisbane,
+ Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisors:
+ Prof Geoffrey McLachlan,
+ Dr Ian Wood,
+ and Dr Andrew Janke
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Thesis
+\begin_inset space ~
+\end_inset
+
+title:
+ Finite mixture models for linear regression data
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2006–2011 
+\series bold
+Bachelor of Science with First Class Honours in Statistics
+\series default
+ (Mathematics and Statistics majors;
+ University Medal)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland,
+ Brisbane,
+ Australia
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Supervisors:
+ Dr Ian Wood and Dr Andrew George
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Thesis
+\begin_inset space ~
+\end_inset
+
+title:
+ Variable selection in linear models using metaheuristic algorithms with applications in genome-wide association studies
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 
+\series bold
+Study Abroad
+\series default
+ (Scholarship;
+ Spring Semester)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of California,
+ Berkeley,
+ USA
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2006–2010 
+\series bold
+Bachelor of Economics
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland,
+ Brisbane,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Peer-Reviewed Publications
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Journal Articles
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "pr_articles"
+options "plainyrrev"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Conference Papers
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "pr_inproceedings"
+options "plainyrrev"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Book Chapters
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "pr_bookchapters"
+options "plainyrrev"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Other Publications
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "OtherPublications"
+options "plainyrrev"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Grants and Research Funding
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2025–2027 
+\series bold
+Discovery Project
+\series default
+ (531,000 AUD;
+ DP250100860)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigators:
+ Professor Shu-Kay Angus Ng (Griffith University),
+ Dr Florence Forbes (Inria Centre at the University Grenoble Alpes),
+ and A Prof Liming Xiang (Nanyang Technological University,
+ Singapore)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Advancing statistical models for clustering data with structured dependence
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023–2026 
+\series bold
+Inria Associate Teams 
+\series default
+(48,000 EURO)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigator:
+ Dr Florence Forbes (Inria Centre at the University Grenoble Alpes)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Variance-reduced Optimization Methods and Bayesian Approximation Techniques for scalable inference (WOMBAT)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023–2025 
+\series bold
+Discovery Project
+\series default
+ (360,000 AUD;
+ DP230100905)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigators:
+ Dr Xin Guo (University of Queensland),
+ Dr Florence Forbes (Inria Centre at the University Grenoble Alpes),
+ and A Prof Gersende Fort (CNRS)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Stochastic majorization–minimization algorithms for data science
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021–2023 
+\series bold
+Australian Government Road Safety Innovation Fund 
+\series default
+(101,248 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigator:
+ Dr Long Truong (La Trobe University)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Development of planning-stage crash prediction tools for use at the planning stages
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019–2021 
+\series bold
+Inria Associate Teams 
+\series default
+(36,000 EURO)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigator:
+ Dr Florence Forbes (Inria Centre at the University Grenoble Alpes)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Latent analysis,
+ adversarial networks,
+ and DimEnsionality Reduction (LANDER)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018–2021 
+\series bold
+Discovery Project
+\series default
+ (242,194 AUD;
+ DP180101192)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-investigators:
+ Prof Geoffrey McLachlan (University of Queensland) and Dr Sharon Lee (University of Queensland)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Classification methods for providing personalised and class decisions
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017–2020 
+\series bold
+Discovery Early Career Research Award 
+\series default
+(360,000 AUD;
+ DE170101134)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Research Council
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Feasible algorithms for big inference
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+AFRAN Call for Initiatives 
+\series default
+(3,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian-French Association for Research and Innovation
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Research School on Statistics and Data Science
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+FASIC RESEARCHERS Program 
+\series default
+(2,545 EURO)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Ministry of Europe and Foreign Affairs,
+ and Ministry of Higher Education,
+ Research and Innovation (France)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Co-awardee:
+ Dr Florence Forbes (Inria Centre at the University Grenoble Alpes)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Project:
+ Latent analysis,
+ adversarial networks,
+ and dimensionality reduction
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017–2019 
+\series bold
+Start Up Grant 
+\series default
+(15,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+La Trobe University
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Scholarships and Prizes
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015 
+\series bold
+AK Head Travelling Scholarship 
+\series default
+(13,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Academy of Science
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011–2014 
+\series bold
+ASPREE-ENVISION Scholarship 
+\series default
+(21,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian National University
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011–2014 
+\series bold
+Advantage RHD Scholarship 
+\series default
+(17,500 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011–2014 
+\series bold
+Australian Postgraduate Award 
+\series default
+(87,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 
+\series bold
+Honours Research Scholarship 
+\series default
+(5,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Commonwealth Scientific and Industrial Research Organization
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 
+\series bold
+Summer Research Scholarship 
+\series default
+(3,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2009 
+\series bold
+Economics Jubilee Scholarship 
+\series default
+(8,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2009 
+\series bold
+National Priority Scholarship 
+\series default
+(2,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2008 
+\series bold
+Vacation Research Scholarship 
+\series default
+(8,500 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Commonwealth Scientific and Industrial Research Organization
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2008 
+\series bold
+Elizabeth Norsworthy Power Industry Bursary 
+\series default
+(7,500 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Stanwell Corporation Limited
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2008 
+\series bold
+Prize for Third Year Statistics 
+\series default
+(500 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Education,
+ Employment and Workplace Relations
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2007, 2008}$
+\end_inset
+
+ 
+\series bold
+Undergraduate Scholarship 
+\series default
+(8,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian Bureau of Statistics
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Formula $\text{2006, 2007}$
+\end_inset
+
+ 
+\series bold
+Commonwealth Educational Cost Scholarship
+\series default
+ (4,000 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2006 
+\series bold
+Kenneth Swanwick Memorial Prize 
+\series default
+(100 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2006 
+\series bold
+John Black Prize 
+\series default
+(100 AUD)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Teaching Awards
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013,
+\begin_inset space ~
+\end_inset
+
+2014 
+\series bold
+Distinguished Teaching Award
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Economics,
+ University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2012 
+\series bold
+Excellence in Tutoring Award
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics,
+ University of Queensland
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Professional Service
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024– 
+\series bold
+Member of the Graduate Program of Mathematics for Innovation
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Joint Graduate School of Mathematics for Innovation
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ Kyushu University,
+ Japan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024– 
+\series bold
+La Trobe–Kyushu Joint Seminar Administrator
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Institute of Mathematics for Industry
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ Kyushu University,
+ Japan
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022–2023 
+\series bold
+Chair of Engagement,
+ Advancement and Internationalization
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022–2023 
+\series bold
+UQ School of Mathematics and Physics Representative
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Institution:
+ Australian Data Science Network
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022–2023 
+\series bold
+Faculty and School Student Misconduct Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022–2023 
+\series bold
+Faculty EMCA Reference Group Representative and School EMCA Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022–2023 
+\series bold
+Mentoring Chair
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Research Committee,
+ School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021–2023 
+\series bold
+Statistics,
+ Modelling and Operations Research Seminar Administrator
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020–2021 
+\series bold
+Mathematics,
+ Statistics,
+ and Data Science Majors Course Advisor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Bachelor of Science Program,
+ College of Science,
+ Health and Engineering
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ La Trobe University,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020–2021 
+\series bold
+Elected Member of the Academic Board
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Levels C/D Representative
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ La Trobe University,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+2018–2021 
+\series bold
+PhD Confirmations Committee Chair
+\end_layout
+
+\begin_layout Plain Layout
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Plain Layout
+Institution:
+ La Trobe University,
+ Australia
+\end_layout
+
+\begin_layout Plain Layout
+2017–2021 
+\series bold
+Masters Theses Committee Member
+\end_layout
+
+\begin_layout Plain Layout
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Plain Layout
+Institution:
+ La Trobe University,
+ Australia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017,
+\begin_inset space ~
+\end_inset
+
+2018 
+\series bold
+Statistics Seminar Administrator
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Department of Mathematics and Statistics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ La Trobe University,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 
+\series bold
+PhD Confirmation Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Plain Layout
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Plain Layout
+2015 
+\series bold
+Promotion Application Assessor
+\end_layout
+
+\begin_layout Plain Layout
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Plain Layout
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\begin_layout Plain Layout
+2012,
+\begin_inset space ~
+\end_inset
+
+2013 
+\series bold
+Interview Panel Member for Statistics Lecturer Positions
+\end_layout
+
+\begin_layout Plain Layout
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Plain Layout
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2012,
+\begin_inset space ~
+\end_inset
+
+2013 
+\series bold
+Treasurer
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Mathematics Students Society
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011–2013 
+\series bold
+First-Year Learning Centre Tutor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+School of Mathematics and Physics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Institution:
+ University of Queensland,
+ Australia
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Academic Service
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Grant Assessor
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Free University of Bozen-Bolzano,
+ Italy
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017– 
+\series bold
+Australian Research Council,
+ Australia
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Discovery Early Career Research Awards;
+ Discovery Projects;
+ Linkage Projects;
+ Future Fellowships;
+ Laureate Fellowships
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Editorial Positions
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024– 
+\series bold
+Executive Editor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Statistical Analysis and Data Mining (Wiley)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024– 
+\series bold
+Associate Editor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Japanese Journal of Statistics and Data Science (Springer)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024– 
+\series bold
+Associate Editor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+International Journal of Mathematics for Industry (World Scientific)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023– 
+\series bold
+Book Review Editor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian and New Zealand Journal of Statistics (Wiley)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019– 
+\series bold
+Associate Editor (Statistics)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Frontiers in Applied Mathematics and Statistics (Frontiers)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019–2023 
+\series bold
+Handling Editor (Statistical Computing)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian and New Zealand Journal of Statistics (Wiley)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018– 
+\series bold
+Technical Editor
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Australian and New Zealand Journal of Statistics (Wiley)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Conference Commitments
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023 
+\series bold
+Organization Committee Member (Chair of Sponsorships)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+67th Annual Meeting of the Australian Mathematical Society (AustMS 2023),
+ Brisbane Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 
+\series bold
+Program Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+18th Australasian Data Mining Conference (AusDM),
+ Canberra Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Workshop Co-chair
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Research School in Statistics and Data Science (RSSDS),
+ Melbourne Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Program Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+17th Australasian Data Mining Conference (AusDM),
+ Adelaide Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Program Committee Member and Tract Chair 
+\series default
+(Statistics in Data Science)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+16th Australasian Data Mining Conference (AusDM),
+ Bathurst Australia
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Program Committee Member
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Research Summer School on Statistics for Data Science (S4D)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Program Committee Member 
+\series default
+(Applications and Technologies in Big Data)
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+2nd International Conference on Smart Grid Assisted Internet of Things (SGIoT)
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+\begin_inset space ~
+\end_inset
+
+ 
+\bar under
+Peer Review
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Advances in Data Analysis and Classification (Springer);
+ Applied Mathematical Modelling (Elsevier);
+ Annals of Applied Statistics (Project Euclid);
+ Annals of Statistics (Project Euclid);
+ Australasian Journal of Information Systems (Australian Computer Society);
+ Australian and New Zealand Journal of Statistics (Wiley);
+ BMC Bioinformatics (BioMed Central);
+ Computational Statistics (Springer);
+ Biometrika (Oxford University Press);
+ Computational Statistics and Data Analysis (Elsevier);
+ Communications in Statistics – Simulation and Computation (Taylor Francis);
+ Electronic Journal of Statistics (Project Euclid);
+ IEEE Transactions on Fuzzy Systems (IEEE);
+ IEEE Transactions on Image Processing (IEEE);
+ IEEE Transactions on Information Theory (IEEE);
+ IEEE Transactions on Medical Imaging (IEEE);
+ Information Sciences (Elsevier);
+ International Journal of Computers and Applications (Taylor Francis);
+ International Journal of Forecasting (Elsevier);
+ International Journal of Machine Intelligence and Sensory Signal Processing (Inderscience);
+ Japanese Journal of Statistics and Data Science (Springer);
+ Journal of the American Statistical Association (Taylor Francis);
+ Journal of Classification (Springer);
+ Journal of Computational and Graphical Statistics (Taylor Francis);
+ Journal of Open Source Software (Open Source Initiative);
+ Journal of Statistical Computation and Simulation (Taylor Francis);
+ Journal of Statistical Planning and Inference (Elsevier);
+ Knowledge-Based Systems (Elsevier);
+ Royal Society Open Science (Royal Society);
+ Statistical Modelling:
+ An International Journal (SAGE);
+ Statistical Analysis and Data Mining (Wiley);
+ Statistics Surveys (Project Euclid);
+ Statistics and Computing (Springer);
+ Statistics in Medicine (Wiley);
+ WIREs:
+ Data Mining and Knowledge Discovery (Wiley)
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Professional Memberships
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2025– Institute of Mathematical Statistics (Regular Member)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2024– International Society for Bayesian Analysis (Regular Member)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2022– Australian Mathematical Society (Fellowship Committee Member 2022–)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019– Statistical Society of Australia (Victoria Branch,
+ Council Member 2020–2021;
+ Queensland Branch,
+ President 2023–2025)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018– Australian-French Association for Research and Innovation (AFRAN)
+\end_layout
+
+\end_body
+\end_document

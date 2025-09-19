@@ -1,0 +1,759 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Research Statement
+\end_layout
+
+\begin_layout Author
+Hien Duy Nguyen
+\end_layout
+
+\begin_layout Standard
+My core research program can be broken up into three key areas: mathematical
+ statistics, computational statistics, and applied statistics.
+ I will discuss in detail my achievements and progress in each of the three
+ topics.
+\end_layout
+
+\begin_layout Section*
+Mathematical Statistics
+\end_layout
+
+\begin_layout Standard
+My primary work in mathematical statistics revolve around the asymptotic
+ theory of estimators and the approximation capabilities of important functional
+ classes in statistics, such as the class of convex combinations of certain
+ families of density functions, or finite mixture models, for the uniform
+ approximation of more general classes probability densities.
+ My publications in this direction of research include the articles 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2018af,Nguyen:2018ai,Nguyen:2019aa,Nguyen:2019ac"
+literal "false"
+
+\end_inset
+
+.
+ In 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2018af"
+literal "false"
+
+\end_inset
+
+, my coauthors (which will now be taken as an understood acknowledgement
+ when referring to joint work) and I demonstrate how the class of mixtures
+ of triangular distributions can be used to arbitrarily approximate any
+ twice-differentiable density function on the unit interval.
+ In this paper, I prove both an approximation rate under which uniform approxima
+tion occurs, as well as a convergence rate regarding the maximum likelihood
+ estimator of such a mixture models.
+\end_layout
+
+\begin_layout Standard
+In 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2019aa"
+literal "false"
+
+\end_inset
+
+, we provide a literature review of the current state of the affairs regarding
+ the estimation and approximation rate of the maximum likelihood estimator
+ for general location-scale finite mixture models.
+ The results in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2018ai"
+literal "false"
+
+\end_inset
+
+ provides a convergence result regarding the use of finite mixture models
+ with randomized parameters for density estimation on a convex domain.
+ Finally, and most significantly, my PhD student and I, along with esteemed
+ coauthors, were able to obtain 
+\begin_inset Formula $L^{p}$
+\end_inset
+
+ approximation results for 
+\begin_inset Formula $p\in\left[1,\infty\right]$
+\end_inset
+
+ regarding the use of finite mixtures of continuous densities that are vanishing
+ at infinity.
+ Our results are more general than those previously reported in the literature,
+ and have powerful features, such as allowing for approximation of densities
+ on non-compact domains.
+\end_layout
+
+\begin_layout Standard
+There are still a number of significant open problems that stem from this
+ research path.
+ Firstly, we are still investigating whether there are weaker conditions
+ than those that we have imposed that lead to uniform and 
+\begin_inset Formula $L^{p}$
+\end_inset
+
+ approximation results.
+ Secondly, we are investigating whether there are simpler proof methods
+ than the convolution and Riemann integration techniques that we have used
+ in our previous results.
+ And thirdly, we seek weak conditions under which we may establish rates
+ of convergence of our constructed classes for use when estimating density
+ functions from data.
+\end_layout
+
+\begin_layout Standard
+In addition to the works above, regarding the use approximation capabilities
+ of finite mixture models, I am also actively investigating the use of mixtures
+ of experts for functional approximation.
+ To this end, I have used the famous Stone-Weierstrass theorem to obtain
+ results regarding the approximation capabilities of the mean functional
+ of mixture of experts models for both univariate and multivariate approximation
+, in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016aaa"
+literal "false"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2019aca"
+literal "false"
+
+\end_inset
+
+, respectively.
+ In 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2019aca"
+literal "false"
+
+\end_inset
+
+, we also established conditions under which approximation in Kullback-Leibler
+ divergence regarding conditional densities could be established.
+ Further work in this direction will revolve around the establishment of
+ approximation and estimation rates of certain classes of mixture of experts
+ models.
+\end_layout
+
+\begin_layout Standard
+Regarding more general estimation theory, I have made some contributions
+ towards the study of divide-and-conquer type estimators, when data are
+ not independent 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2018ag"
+literal "false"
+
+\end_inset
+
+.
+ I have also been keenly interested in the study of maximum pseudolikelihood
+ estimators (MPLEs).
+ For example, in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2018aaa"
+literal "false"
+
+\end_inset
+
+, I provided a general result regarding the consistency of the MPLE for
+ discrete data generating processes.
+ A specific study of the asymptotic normality of the so-called fully visible
+ Boltzmann machine (FVBM) was conducted in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016ae"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+A characterization of an autoregressive mixture of Laplace distributions
+ is provided along with MPLE theorems in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016ah"
+literal "false"
+
+\end_inset
+
+, and an asymptotic normality result regarding feasible least squares of
+ an autocorrelated linear model is established in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2019ad"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Miscellaneously, I established some new results regarding an interesting
+ maximum likelihood problem regarding the triangle distribution in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2017ac"
+literal "false"
+
+\end_inset
+
+.
+ Here, I investigated an interesting phenomenon regarding the expected time
+ complexity for the maximum likelihood estimator of the triangle distribution.
+ I have also made some exploration of the concept of strict sub-Gaussianity
+ for bounded random variables in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Arbel:2019aa"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section*
+Computational Statistics
+\end_layout
+
+\begin_layout Standard
+The majority of my work in computational statistics stems from my PhD studies,
+ which was primarily on the estimation of finite mixture models and regression
+ variants of such models 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2015ab"
+literal "false"
+
+\end_inset
+
+.
+ In particular, my work focuses on the development of EM (expectation–maximizati
+on) and MM (majorization/minorization–minimization/maximization) type algorithms
+ for such models, and beyond.
+\end_layout
+
+\begin_layout Standard
+Regarding finite mixture models, in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2015aaa"
+literal "false"
+
+\end_inset
+
+, I developed a new EM algorithm for the popular multivariate normal mixture
+ model.
+ Using MM algorithm techniques for optimization of non-differentiable objectives
+, I proposed a method for maximum likelihood estimation (MLE) of mixtures
+ of triangle distributions in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016ad"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+In 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016ac"
+literal "false"
+
+\end_inset
+
+, I proposed a method for using mixture models in order to draw non-parametric
+ inference regarding linear mixed effects models, where one cannot make
+ assumptions regarding the random effect distribution, other than symmetry.
+ Mixtures of linear mixed effects models were further considered for the
+ purpose of classification and clustering of bivariate functional data in
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016aj"
+literal "false"
+
+\end_inset
+
+.
+ A novel MM algorithm for estimation of LASSO penalized mixtures of linear
+ regression models was proposed in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lloyd-Jones:2018aa"
+literal "false"
+
+\end_inset
+
+.
+ Further work in this direction includes the exploration of generalized
+ linear model constructions as well as the investigation of asymptotic and
+ finite sample results regarding the nature of penalized mixture regression
+ models.
+\end_layout
+
+\begin_layout Standard
+For time series clustering and classification, I further proposed two the
+ use of mixtures of autoregressive models, estimated using MM algorithms.
+ The papers 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016ag"
+literal "false"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2017af"
+literal "false"
+
+\end_inset
+
+ are variations on this theme, which utilized different pseudolikelihood
+ constructions for the characterization of the estimation objective.
+ Both sets of results have been successfully applied to the clustering and
+ classification of time series data that arise in neuroscience.
+ In the future, this work can be expanded to take into account inter class
+ variation via random effects as well as time series constructions other
+ than autoregressive models.
+\end_layout
+
+\begin_layout Standard
+Similar to finite mixture of regression models are their generalization,
+ the class of mixtures of experts.
+ On this front, I proposed an MM algorithm for the MLE of the mixture of
+ Laplace experts model, as well as investigated its robustness properties
+ in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016ai"
+literal "false"
+
+\end_inset
+
+.
+ My further work in mixture of experts modeling are reported in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2018aba"
+literal "false"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chamroukhi:2019aa"
+literal "false"
+
+\end_inset
+
+.
+ Mixture of experts models are an important probabilistic neural network
+ and understand and estimating them will only become more important in the
+ current era of deep network architectures.
+\end_layout
+
+\begin_layout Standard
+Apart from mixture models applications, I have also made numerous research
+ contributions to the study of EM and MM algorithms, more generally.
+ For example, I have contributed the following tutorial paper 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2017ab"
+literal "false"
+
+\end_inset
+
+ regarding the use of MM algorithms.
+ An application of the MM algorithm framework towards the problem of fitting
+ FVBM appears in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016af"
+literal "false"
+
+\end_inset
+
+.
+ MM algorithms for some support vector machine (SVM) variants were proposed
+ in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2017ad"
+literal "false"
+
+\end_inset
+
+, and an MM algorithm for the estimation of heteroskedastic regression models
+ was considered in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2016ab"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The need for stochastic approximation optimization algorithms in order to
+ handle estimation problems pertaining to large data sets is an important
+ consideration of modern statistical analysis.
+ Towards this direction, I have contributed a stochastic approximation algorithm
+ for the MLE of a subclass of normal mixture models in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2018ac"
+literal "false"
+
+\end_inset
+
+.
+ Stochastic MM algorithms for the estimation of some SVM variants were considere
+d in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2018ad"
+literal "false"
+
+\end_inset
+
+.
+ Recently, I studied the use of a stochastic EM algorithm for the mini-batch
+ estimation of normal mixture models in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2019ab"
+literal "false"
+
+\end_inset
+
+.
+ This area of research is an important one and I hope to make further contributi
+ons towards the derivation and understanding of stochastic approximation
+ type algorithms, when applied to non-convex and non-smooth estimation problems
+ in the future.
+\end_layout
+
+\begin_layout Standard
+Importantly, I believe that statistical methods should be made easily available,
+ as to best benefit the scientific community.
+ To this end, I have been diligent in making novel methodology available
+ via software implementations, specifically in the 
+\begin_inset Formula $\mathsf{R}$
+\end_inset
+
+ statistical language.
+ For example, I have coauthored the packages 
+\begin_inset Formula $\mathsf{BoltzMM}$
+\end_inset
+
+, 
+\begin_inset Formula $\mathsf{logKDE}$
+\end_inset
+
+, 
+\begin_inset Formula $\mathsf{lowmemtkmeans}$
+\end_inset
+
+, 
+\begin_inset Formula $\mathsf{SAGMM}$
+\end_inset
+
+, and 
+\begin_inset Formula $\mathsf{SSOSVM}$
+\end_inset
+
+, that are all available on the comprehensive 
+\begin_inset Formula $\mathsf{R}$
+\end_inset
+
+ archive network (CRAN).
+ Furthermore, I believe that it is important that software adhere to community
+ standards, such as those set out by the Journal of Open Source Software.
+ Thus, I have also strived to prepare my software to meet these more stringent
+ goals.
+ Example of such preparation are my 
+\begin_inset Formula $\mathsf{R}$
+\end_inset
+
+ packages that are detailed in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Fryer:2019aa,Jones:2019aaa,Jones:2018aa"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section*
+Applied Statistics
+\end_layout
+
+\begin_layout Standard
+Besides my computational and mathematical work, I have also endeavored to
+ engage with the scientific community, via applied work that are both primary
+ and consultative in nature.
+ The first example of my applied work are towards the better understanding
+ of proteomics experiments via distribution-robust permutation testing methodolo
+gy that are constructed specifically for the data type.
+ My work in this direction includes the descriptive articles 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2012aa"
+literal "false"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2017ae"
+literal "false"
+
+\end_inset
+
+, as well as the development of a web application for the application of
+ such methodology in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chen:2014aa"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Further works regarding hypothesis testing are those that are applied to
+ the various false discovery rate (FDR) control problems in neuroscience.
+ Here, I provided a framework for model-based FDR control, under spatial
+ correlation for structural magnetic resonance imaging (MRI) data in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2014ab"
+literal "false"
+
+\end_inset
+
+.
+ I further suggest a method for FDR control of quantized data, which are
+ common in MRI studies, in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2019aba"
+literal "false"
+
+\end_inset
+
+.
+ Another work relating to the analysis of brain imaging data is 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Orban:2018aa"
+literal "false"
+
+\end_inset
+
+, which considers the problem of generalizability of machine learning studies
+ between different imaging cohorts.
+ In 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nguyen:2018ah"
+literal "false"
+
+\end_inset
+
+, I also considered the application of mixture models to the problem of
+ clustering time series data that arise from calcium imaging studies of
+ zebrafish.
+ Further research in this direction has been rapid, as I am currently collaborat
+ing with multiple neuroscience groups regarding both human imaging problems
+ as well as problems that arise from the study of animal models.
+\end_layout
+
+\begin_layout Standard
+I have also actively collaborated on research in fishery science.
+ For example, in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lloyd-Jones:2014aa"
+literal "false"
+
+\end_inset
+
+, I helped in characterizing a random effects model that lead to the improved
+ estimation of size transition matrices of aquatic species that are sampled
+ via catch–recapture studies.
+ In 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lloyd-Jones:2016aa"
+literal "false"
+
+\end_inset
+
+, I contributed to the study of multigenerational data arising form crab
+ fisheries studies.
+\end_layout
+
+\begin_layout Standard
+In other works, I have for instance to the analysis of Australian political
+ science data using FVBMs in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bagnall:2018aaa"
+literal "false"
+
+\end_inset
+
+.
+ I have also consulted on various applied problems such as towards the study
+ chemical pathways via proteomics 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Inder:2012aa"
+literal "false"
+
+\end_inset
+
+, the analysis of behavioral economics experiments 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Oyarzun:2017aa"
+literal "false"
+
+\end_inset
+
+, and the study of pedestrian safety for accident prevention 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Truong:2019aa"
+literal "false"
+
+\end_inset
+
+.
+ I believe that a part of doing good statistics is to appreciate the plethora
+ of available problems that can be studied through the statistical lens.
+ As such, I am always open and welcoming of new and interesting applied
+ projects.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "pr_inproceedings,pr_articles,WorkingPapers,pr_bookchapters,OtherPublications"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
